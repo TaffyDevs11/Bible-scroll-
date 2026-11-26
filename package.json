@@ -1,0 +1,16 @@
+{
+  "name": "bible-advisor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bible Advisor — a free, offline-first Bible app (PWA). Every answer leads to Jesus.",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "validate": "node tools/validate.mjs",
+    "review": "node tools/validate.mjs --print",
+    "plans": "node tools/build-plans.mjs",
+    "icons": "node tools/make-icons.mjs",
+    "start": "python3 -m http.server 8080"
+  },
+  "license": "MIT"
+}

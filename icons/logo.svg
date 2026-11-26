@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Bible Advisor">
+  <rect width="512" height="512" rx="112" fill="#1B2A3A"/>
+  <circle cx="256" cy="226" r="150" fill="#C9A44C" opacity=".10"/>
+  <!-- cross -->
+  <rect x="244" y="96" width="24" height="150" rx="6" fill="#C9A44C"/>
+  <rect x="204" y="132" width="104" height="22" rx="6" fill="#C9A44C"/>
+  <!-- open book -->
+  <path d="M256 296c-42-30-96-38-150-32v130c54-6 108 2 150 32z" fill="#F5EFE3"/>
+  <path d="M256 296c42-30 96-38 150-32v130c-54-6-108 2-150 32z" fill="#EADFC8"/>
+  <path d="M256 296v130" stroke="#C9A44C" stroke-width="6" stroke-linecap="round"/>
+  <path d="M132 296c38-3 74 4 104 20M132 326c38-3 74 4 104 20M132 356c38-3 74 4 104 20" stroke="#8A8278" stroke-width="5" stroke-linecap="round" fill="none" opacity=".55"/>
+  <path d="M380 296c-38-3-74 4-104 20M380 326c-38-3-74 4-104 20M380 356c-38-3-74 4-104 20" stroke="#8A8278" stroke-width="5" stroke-linecap="round" fill="none" opacity=".55"/>
+</svg>
