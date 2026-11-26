@@ -74,6 +74,11 @@ async function start() {
 
 function registerSW() {
   if (!('serviceWorker' in navigator)) return;
+  // A new version was installed while the app was open: tell the reader quietly instead of reloading under them.
+  const hadController = !!navigator.serviceWorker.controller;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (hadController) import('./ui.js').then(({ toast }) => toast('Bible Advisor was updated. Reopen the app to see what is new.'));
+  });
   navigator.serviceWorker.register('sw.js').then((reg) => {
     const ask = () => navigator.serviceWorker.controller?.postMessage({ type: 'cache-bible' }) ?? reg.active?.postMessage({ type: 'cache-bible' });
     // after the shell is ready, save the whole Bible for offline use in the background

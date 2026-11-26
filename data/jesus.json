@@ -1,0 +1,124 @@
+{
+  "note": "Meet Jesus content. References only; the app shows the exact bundled text. Titles and notes were written for this app.",
+  "intro": "Every answer in Bible Advisor leads here: to Jesus Christ, the Word who became flesh and lived among us (John 1:1, 14).",
+  "sections": [
+    {
+      "id": "who",
+      "title": "Who He is",
+      "summary": "Jesus is the eternal Word, God the Son, who made all things and came to make peace with us.",
+      "items": [
+        { "ref": "John 1:1-3", "title": "The Word", "note": "Before the world began, Jesus already was. All things were made through Him." },
+        { "ref": "John 1:14", "title": "The Word became flesh", "note": "God came close. Jesus lived a real human life, full of grace and truth." },
+        { "ref": "Colossians 1:15-17", "title": "The image of God", "note": "If you want to know what God is like, look at Jesus." },
+        { "ref": "Colossians 1:19-20", "title": "The peacemaker", "note": "Through the cross, Jesus makes peace between God and people." },
+        { "ref": "Hebrews 1:3", "title": "Holding all things", "note": "Jesus shines with God's glory, holds the universe together, and cleansed our sins." },
+        { "ref": "John 20:28", "title": "My Lord and my God", "note": "The doubter Thomas met the risen Jesus and worshipped Him." }
+      ]
+    },
+    {
+      "id": "i-am",
+      "title": "His “I am” sayings",
+      "summary": "In John's Gospel, Jesus describes Himself with seven pictures that show what He gives.",
+      "items": [
+        { "ref": "John 6:35", "title": "The bread of life", "note": "Jesus satisfies the deepest hunger of the soul." },
+        { "ref": "John 8:12", "title": "The light of the world", "note": "Following Jesus means you do not walk in darkness." },
+        { "ref": "John 10:9", "title": "The door", "note": "Jesus is the way in to safety and life with God." },
+        { "ref": "John 10:11", "title": "The good shepherd", "note": "Jesus knows His sheep and gave His life for them." },
+        { "ref": "John 11:25-26", "title": "The resurrection and the life", "note": "Death is not the end for those who believe in Him." },
+        { "ref": "John 14:6", "title": "The way, the truth and the life", "note": "Jesus does not only point to God. He brings us to the Father." },
+        { "ref": "John 15:5", "title": "The true vine", "note": "Stay connected to Jesus, and your life will bear fruit." },
+        { "ref": "John 8:58", "title": "Before Abraham was, I am", "note": "Jesus used God's own name, \"I am,\" for Himself." }
+      ]
+    },
+    {
+      "id": "parables",
+      "title": "His parables",
+      "summary": "Jesus taught with stories from everyday life. Each one shows something about God's kingdom.",
+      "items": [
+        { "ref": "Luke 15:4-7", "title": "The lost sheep", "note": "The shepherd goes after the one that is lost, and heaven celebrates when it is found." },
+        { "ref": "Luke 15:20-24", "title": "The lost son", "note": "The father runs to welcome his son home. This is the heart of God." },
+        { "ref": "Luke 10:30-37", "title": "The good Samaritan", "note": "Loving your neighbor means stopping to help, whoever they are." },
+        { "ref": "Matthew 13:3-8", "title": "The sower", "note": "God's Word is like seed. The kind of heart that receives it matters." },
+        { "ref": "Matthew 13:31-32", "title": "The mustard seed", "note": "God's kingdom starts small and grows beyond imagining." },
+        { "ref": "Matthew 13:44-46", "title": "The hidden treasure and the pearl", "note": "Knowing Jesus is worth more than everything else." },
+        { "ref": "Matthew 7:24-27", "title": "The wise and foolish builders", "note": "Build your life on doing what Jesus says, and it will stand." },
+        { "ref": "Luke 18:10-14", "title": "The Pharisee and the tax collector", "note": "God hears the humble prayer: \"God be merciful to me a sinner.\"" }
+      ]
+    },
+    {
+      "id": "miracles",
+      "title": "His miracles",
+      "summary": "Jesus' miracles show His power and His compassion. They are signs pointing to who He is.",
+      "items": [
+        { "ref": "John 2:7-11", "title": "Water into wine", "note": "Jesus' first sign, at a wedding, showed His glory." },
+        { "ref": "Mark 1:40-42", "title": "Healing a leper", "note": "Jesus touched a man no one would touch, and made him clean." },
+        { "ref": "Mark 4:37-41", "title": "Calming the storm", "note": "Even the wind and the sea obey Him." },
+        { "ref": "Mark 5:41-42", "title": "Raising a little girl", "note": "Jesus took a girl by the hand and gave her life again." },
+        { "ref": "John 6:9-13", "title": "Feeding five thousand", "note": "A boy's small lunch fed a crowd in Jesus' hands." },
+        { "ref": "Matthew 14:25-33", "title": "Walking on water", "note": "When Peter began to sink, Jesus caught him." },
+        { "ref": "Mark 10:51-52", "title": "Healing blind Bartimaeus", "note": "Jesus asked, \"What do you want me to do for you?\"" },
+        { "ref": "John 11:41-44", "title": "Raising Lazarus", "note": "Jesus called a dead man out of the tomb." }
+      ]
+    },
+    {
+      "id": "sermon",
+      "title": "The Sermon on the Mount",
+      "summary": "Jesus' most famous teaching describes life in God's kingdom.",
+      "items": [
+        { "ref": "Matthew 5:3-12", "title": "The Beatitudes", "note": "Jesus calls blessed the people the world overlooks." },
+        { "ref": "Matthew 5:14-16", "title": "Salt and light", "note": "Let your good works shine so people praise your Father." },
+        { "ref": "Matthew 5:43-45", "title": "Love your enemies", "note": "God's children love like their Father does." },
+        { "ref": "Matthew 6:9-13", "title": "The Lord's Prayer", "note": "Jesus teaches us how to pray." },
+        { "ref": "Matthew 6:31-34", "title": "Do not worry", "note": "Seek God's kingdom first and trust Him with tomorrow." },
+        { "ref": "Matthew 7:7-11", "title": "Ask, seek, knock", "note": "Your Father gives good gifts to those who ask Him." },
+        { "ref": "Matthew 7:12", "title": "The golden rule", "note": "Treat others the way you want to be treated." },
+        { "ref": "Matthew 7:24-27", "title": "Build on the rock", "note": "Hearing and doing Jesus' words gives a firm foundation." }
+      ]
+    },
+    {
+      "id": "cross",
+      "title": "The cross",
+      "summary": "Jesus died for our sins, taking what we deserved so we could be forgiven.",
+      "items": [
+        { "ref": "Isaiah 53:5-6", "title": "Foretold", "note": "Hundreds of years earlier, Isaiah wrote of One who would be wounded for us." },
+        { "ref": "Luke 23:33-34", "title": "\"Father, forgive them\"", "note": "Jesus prayed for the people crucifying Him." },
+        { "ref": "Luke 23:42-43", "title": "The thief on the cross", "note": "A dying man asked Jesus to remember him, and was promised paradise." },
+        { "ref": "John 19:28-30", "title": "\"It is finished\"", "note": "Jesus completed the work of saving us." },
+        { "ref": "Mark 15:37-39", "title": "The veil torn", "note": "The way to God was opened, and a soldier saw that Jesus was the Son of God." },
+        { "ref": "Romans 5:8", "title": "Love shown", "note": "Christ died for us while we were still sinners." }
+      ]
+    },
+    {
+      "id": "resurrection",
+      "title": "The resurrection",
+      "summary": "On the third day Jesus rose from the dead. He is alive today.",
+      "items": [
+        { "ref": "Matthew 28:5-7", "title": "He is risen", "note": "The tomb was empty, just as Jesus had said." },
+        { "ref": "Luke 24:36-39", "title": "Touch me and see", "note": "The risen Jesus had a real body; He was not a ghost." },
+        { "ref": "John 20:19-20", "title": "Peace be unto you", "note": "Jesus showed His wounds, and His friends were glad." },
+        { "ref": "John 20:27-29", "title": "Thomas believes", "note": "Blessed are those who have not seen and yet believe." },
+        { "ref": "1 Corinthians 15:3-6", "title": "Seen by many", "note": "The risen Jesus was seen by Peter, the twelve, and more than five hundred people." },
+        { "ref": "Acts 1:9-11", "title": "He will come again", "note": "Jesus returned to heaven, and He will come back the same way." }
+      ]
+    }
+  ],
+  "know": {
+    "title": "How to know Jesus",
+    "intro": "You do not need to clean up your life first. Jesus came for people who know they need Him.",
+    "steps": [
+      { "title": "God loves you", "text": "God made you and loves you more than you know. He wants you to know Him." },
+      { "title": "Sin separates us from God", "text": "All of us have done wrong. Our sin puts a wall between us and God, and we cannot remove it ourselves." },
+      { "title": "Jesus came to save you", "text": "Jesus, God the Son, died on the cross for your sins and rose again. He took the punishment we deserved." },
+      { "title": "Salvation is a gift", "text": "You cannot earn it. You receive it by trusting Jesus and turning to Him." },
+      { "title": "Open the door", "text": "Jesus is knocking. You can talk to Him right now, in your own words." }
+    ],
+    "verses": [
+      { "ref": "John 3:16" },
+      { "ref": "Romans 10:9-10" },
+      { "ref": "Ephesians 2:8-9" },
+      { "ref": "Revelation 3:20" }
+    ],
+    "prayer": "Lord Jesus, I know I have sinned and I need You. Thank You for dying on the cross for me and rising again. I believe You are the Son of God. Please forgive me and come into my life. I want to follow You as my Lord and Savior. Thank You for loving me. Amen.",
+    "next": "If you prayed this, welcome to God's family! Tell a Christian you trust, find a church that teaches the Bible, and start reading the Gospel of John."
+  }
+}

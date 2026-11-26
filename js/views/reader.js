@@ -249,7 +249,7 @@ async function searchView(q) {
     out.replaceChildren(
       h('p', { class: 'muted small', style: { marginTop: '16px' } }, `${res.length}${res.length >= 500 ? '+' : ''} verses in ${groups.size} book${groups.size > 1 ? 's' : ''}`),
       ...[...groups].map(([b, rows]) => h('details', { class: 'result-group', open: groups.size <= 6 },
-        h('summary', {}, h('h3', { style: { display: 'inline' } }, R().bookName(b, false)), h('span', { class: 'muted small' }, ` · ${rows.length}`)),
+        h('summary', {}, h('h2', { style: { display: 'inline', fontSize: '19px' } }, R().bookName(b, false)), h('span', { class: 'muted small' }, ` · ${rows.length}`)),
         rows.slice(0, 100).map((r) => h('a', { class: 'result', href: `#/bible/${r.b}/${r.c}/${r.v}` },
           h('div', { class: 'ref' }, R().format({ b: r.b, c: r.c, v: r.v, v2: r.v })),
           markWords(bible.plain(r.t), words))))));

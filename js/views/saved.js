@@ -96,7 +96,7 @@ export async function render({ args }) {
       h('p', { class: 'small muted' }, 'There are no accounts, so your saved verses, highlights, notes and plan progress live only on this phone. Export a file to keep them safe or move them to a new phone.'),
       h('div', { class: 'actions' },
         h('button', { class: 'btn', type: 'button', onclick: exportBackup }, icon('download'), 'Export'),
-        h('label', { class: 'btn', for: 'import-file', role: 'button', tabindex: '0', onkeydown: (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); fileInput.click(); } } }, icon('upload'), 'Import'),
+        h('label', { class: 'btn', for: 'import-file', tabindex: '0', onkeydown: (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); fileInput.click(); } } }, icon('upload'), 'Import'),
         fileInput)));
   view.__mounted = draw;
   return view;
