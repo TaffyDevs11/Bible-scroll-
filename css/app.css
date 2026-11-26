@@ -90,6 +90,7 @@ main.full { max-width: none; padding: 0; }
 .topbar { display: flex; align-items: center; gap: 8px; min-height: 60px; padding-top: env(safe-area-inset-top, 0px); position: sticky; top: 0; z-index: 5; background: var(--bg); margin: 0 -16px; padding-inline: 8px 8px; }
 .topbar h1, .topbar h2 { font-size: 21px; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .topbar .spacer { flex: 1; }
+.topbar > h1:first-child, .topbar > h2:first-child { padding-left: 8px; }
 .topbar.plain { position: static; }
 
 .stack > * + * { margin-top: 16px; }
@@ -172,6 +173,8 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 20px 0; }
 }
 .slide .body { flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 16px; min-height: 0; overflow-y: auto; }
 .slide .scripture { font-size: calc(var(--verse-size) + 3px); }
+.slide .scripture.long { font-size: var(--verse-size); line-height: 1.5; }
+.slide .scripture.xlong { font-size: calc(var(--verse-size) - 2px); line-height: 1.45; }
 .slide .reflection { font-size: 16px; line-height: 1.6; }
 .slide .prayer { font-family: var(--serif); font-style: italic; font-size: 18px; color: var(--olive-ink); border-left: 3px solid var(--accent); padding-left: 12px; }
 .slide .count { font-size: 13px; color: var(--muted); }

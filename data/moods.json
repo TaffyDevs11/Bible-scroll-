@@ -1,0 +1,397 @@
+{
+  "note": "Mood feed content for Bible Advisor. Each verse is referenced, never quoted: the app shows the exact text from the bundled KJV or WEB. Card 1 of every mood is 'What Jesus says' (jesus: true). Reflections and prayers were written for this app in plain English; they are not Scripture. Run `node tools/build.mjs` after editing to validate every reference.",
+  "crisisText": "If you are in danger or thinking of harming yourself, please contact local emergency services or a crisis line now, and tell someone you trust.",
+  "moods": [
+    {
+      "id": "anxious",
+      "label": "Anxious",
+      "intro": "When your mind will not slow down, God invites you to hand Him every worry.",
+      "verses": [
+        { "ref": "John 14:27", "jesus": true, "reflection": "Jesus gives a peace the world cannot give or take away. His peace does not depend on everything going right. It comes from Him being with you.", "prayer": "Jesus, I receive Your peace right now. Calm my heart." },
+        { "ref": "Matthew 6:26", "reflection": "The birds do not plan or store food, yet God feeds them every day. Jesus says you matter even more to God than they do.", "prayer": "Father, help me trust that You will take care of me today." },
+        { "ref": "Matthew 6:34", "reflection": "Worry tries to make you carry tomorrow before it arrives. Jesus asks you to live today with Him, one day at a time.", "prayer": "Lord, I give You tomorrow. Help me live today with You." },
+        { "ref": "Philippians 4:6-7", "reflection": "Instead of worrying about everything, you can pray about everything. Tell God what you need, thank Him, and let His peace guard your heart and mind.", "prayer": "God, here is what worries me. Thank You for hearing me. Guard my heart with Your peace." },
+        { "ref": "1 Peter 5:7", "reflection": "You can throw all your worries onto God, like setting down a heavy bag. You can do this because He truly cares about you.", "prayer": "Lord, I lay my worries down at Your feet, because You care for me." },
+        { "ref": "Psalm 94:19", "reflection": "When many anxious thoughts crowd in, God's comfort can bring real joy to your soul. Turn each thought toward Him.", "prayer": "When my thoughts are many, let Your comfort fill my soul." },
+        { "ref": "Isaiah 26:3", "reflection": "God keeps in perfect peace the person whose mind stays on Him. Peace grows when you keep turning your thoughts back to God.", "prayer": "Lord, keep my mind fixed on You, and keep me in Your peace." },
+        { "ref": "Psalm 55:22", "reflection": "God does not only take your burden; He holds you up while you walk. You do not have to carry it alone.", "prayer": "Father, I hand You this burden. Hold me up today." },
+        { "ref": "Matthew 11:28", "reflection": "Jesus invites tired and heavy-hearted people to come to Him. The rest He gives is for your soul, not only your body.", "prayer": "Jesus, I am coming to You. Please give me Your rest." },
+        { "ref": "Psalm 46:1", "reflection": "God is a safe place to run to and a strength you can lean on. He is near right now, in the middle of your trouble.", "prayer": "God, be my refuge and my strength right now." },
+        { "ref": "Isaiah 41:10", "reflection": "God gives five promises in one verse: He is with you, He is your God, He will strengthen you, help you, and hold you up.", "prayer": "Lord, thank You that You are with me. Strengthen me and hold me up." },
+        { "ref": "Psalm 4:8", "reflection": "David could lie down and sleep in peace because God was the one keeping him safe. You can rest tonight because God does not sleep.", "prayer": "Lord, I trust You with this night. Give me peaceful sleep." },
+        { "ref": "2 Thessalonians 3:16", "reflection": "The Lord is called the Lord of peace. He can give you peace at all times and in every situation.", "prayer": "Lord of peace, give me Your peace in every part of my life." }
+      ]
+    },
+    {
+      "id": "afraid",
+      "label": "Afraid",
+      "intro": "Fear is real, but it does not get the last word. The Lord is with you.",
+      "verses": [
+        { "ref": "Matthew 14:27", "jesus": true, "reflection": "In the middle of a storm at night, Jesus came to His friends and said, \"It is I.\" The answer to fear is not a thing, but a Person who is with you.", "prayer": "Jesus, come to me in my storm. Help me hear You say, \"It is I.\"" },
+        { "ref": "Psalm 34:4", "reflection": "David looked for the Lord, and God heard him and set him free from all his fears. You can look for Him today too.", "prayer": "Lord, I am seeking You. Hear me and free me from my fears." },
+        { "ref": "Psalm 27:1", "reflection": "If the Lord is your light and your safety, the things you fear are smaller than they look. He is the strength of your life.", "prayer": "Lord, You are my light. Shine on what I fear." },
+        { "ref": "Psalm 23:4", "reflection": "Even in the darkest valley, you do not walk alone. The Good Shepherd is with you and He protects you.", "prayer": "Shepherd of my soul, walk with me through this dark valley." },
+        { "ref": "Joshua 1:9", "reflection": "God told Joshua to be brave, not because the task was easy, but because God would be with him everywhere he went.", "prayer": "Lord, give me courage, because You go with me." },
+        { "ref": "2 Timothy 1:7", "reflection": "Fear does not come from God. He gives His people power, love, and a clear and steady mind.", "prayer": "Holy Spirit, replace my fear with power, love, and a sound mind." },
+        { "ref": "Psalm 56:3", "reflection": "This verse does not say \"I will never be afraid.\" It says that when fear comes, you can choose to trust God.", "prayer": "Lord, I am afraid, and I choose to trust You." },
+        { "ref": "Isaiah 43:1", "reflection": "God made you, bought you back, and calls you by name. You belong to Him, so you do not need to fear.", "prayer": "Thank You, Lord, that You know my name and I am Yours." },
+        { "ref": "Psalm 91:4", "reflection": "Like a bird covering its young with its wings, God covers those who trust Him. His truth is your shield.", "prayer": "Lord, cover me with Your wings. I hide in You." },
+        { "ref": "Deuteronomy 31:6", "reflection": "God goes with you and will never fail you or leave you. That is the reason you can be strong.", "prayer": "Lord, thank You that You will never leave me. Make me strong." },
+        { "ref": "Luke 12:32", "reflection": "Jesus calls His followers His \"little flock.\" Your Father is glad to give you His kingdom, so you do not need to be afraid.", "prayer": "Father, thank You for Your kindness to me. Calm my fears." },
+        { "ref": "John 16:33", "reflection": "Jesus is honest: this world will bring trouble. But He has already overcome the world, and in Him you can have peace.", "prayer": "Jesus, You have overcome the world. Give me Your peace in my trouble." },
+        { "ref": "Hebrews 13:6", "reflection": "With the Lord as your helper, you can face people and situations with quiet confidence.", "prayer": "Lord, You are my helper. I will not be afraid." }
+      ]
+    },
+    {
+      "id": "sad",
+      "label": "Sad",
+      "intro": "God is close to the brokenhearted. You can bring Him your tears.",
+      "crisis": true,
+      "verses": [
+        { "ref": "John 16:22", "jesus": true, "reflection": "Jesus knew His friends would be sad, and He did not tell them to hide it. He promised a joy that comes from seeing Him, a joy no one can take away.", "prayer": "Jesus, meet me in my sadness and give me Your joy that lasts." },
+        { "ref": "Psalm 34:18", "reflection": "When your heart is broken, God does not stay far away. He comes near and rescues those whose spirit is crushed.", "prayer": "Lord, my heart is broken. Please come close to me." },
+        { "ref": "Psalm 42:11", "reflection": "The writer talks honestly to his own soul and asks why it is so low. Then he tells himself to hope in God, because he will praise Him again.", "prayer": "God, my soul feels low. Help me hope in You again." },
+        { "ref": "Psalm 30:5", "reflection": "Weeping may last through the night, but it is not the end of the story. Joy comes in the morning.", "prayer": "Lord, carry me through this night until the morning comes." },
+        { "ref": "Psalm 147:3", "reflection": "God is a healer of hearts. Like someone gently bandaging a wound, He cares for the places that hurt.", "prayer": "Healer, bind up the wounds in my heart." },
+        { "ref": "Isaiah 61:3", "reflection": "God promises to exchange: beauty for ashes, joy for mourning, praise for a heavy spirit. Jesus read from this part of Isaiah to describe His own mission.", "prayer": "Lord, trade my ashes for Your beauty and my heaviness for praise." },
+        { "ref": "Lamentations 3:22-23", "reflection": "These words were written in a very sad time. Even then, the writer saw that God's mercies are new every morning.", "prayer": "Thank You, Lord, that Your mercy is new for me this morning." },
+        { "ref": "Romans 15:13", "reflection": "God is called the God of hope. As you trust Him, His Holy Spirit can fill you with joy and peace.", "prayer": "God of hope, fill me with joy and peace as I trust You." },
+        { "ref": "Psalm 126:5", "reflection": "Tears are not wasted with God. What is planted in sorrow can grow into a harvest of joy.", "prayer": "Lord, let my tears become a harvest of joy." },
+        { "ref": "Psalm 40:1-2", "reflection": "David waited for the Lord, and God heard him, lifted him out of the pit, and set his feet on a rock. Waiting on God is not wasted time.", "prayer": "Lord, lift me out of this pit and set my feet on Your rock." },
+        { "ref": "Revelation 21:4", "reflection": "One day God Himself will wipe every tear away. Sadness, death, and pain will be gone for good.", "prayer": "Lord, thank You that my tears will not last forever." },
+        { "ref": "Psalm 143:8", "reflection": "Ask God to remind you of His steady love when you wake up. Then ask Him to show you the next step.", "prayer": "Let me hear of Your love this morning, Lord, and show me the way to walk." },
+        { "ref": "Psalm 56:8", "reflection": "God keeps track of every tear, like collecting them in a bottle. Your sadness is seen and remembered by Him.", "prayer": "Lord, thank You that You see every tear I cry." }
+      ]
+    },
+    {
+      "id": "lonely",
+      "label": "Lonely",
+      "intro": "Even when no one else is near, you are not alone. God sees you and stays with you.",
+      "crisis": true,
+      "verses": [
+        { "ref": "Matthew 28:20", "jesus": true, "reflection": "These are among the last words Jesus spoke before He returned to heaven: \"I am with you alway.\" There is no day when He is not with you.", "prayer": "Jesus, thank You that You are with me today and always." },
+        { "ref": "Isaiah 49:15-16", "reflection": "Even if a mother could forget her baby, God says He will not forget you. Your name is written on His hands.", "prayer": "Lord, thank You that You never forget me." },
+        { "ref": "Psalm 68:6", "reflection": "God cares about lonely people and places them in families. Ask Him to lead you to His people.", "prayer": "Father, place me among people who will love me and point me to You." },
+        { "ref": "Psalm 27:10", "reflection": "Even if the closest people in your life leave you, the Lord will take you in and hold you.", "prayer": "Lord, when people let me go, You hold on to me." },
+        { "ref": "Deuteronomy 31:8", "reflection": "The Lord goes ahead of you and walks with you. He will not fail you or leave you.", "prayer": "Lord, go before me and stay beside me." },
+        { "ref": "John 15:15", "reflection": "Jesus calls His followers His friends. He shares His heart with them. You have a Friend in Jesus.", "prayer": "Jesus, thank You for calling me Your friend." },
+        { "ref": "Isaiah 43:2", "reflection": "God does not promise there will be no deep waters or hot fires. He promises to be with you in them.", "prayer": "Lord, be with me in the deep waters." },
+        { "ref": "Psalm 139:9-10", "reflection": "Even if you went to the farthest place on earth, God's hand would be there to lead and hold you.", "prayer": "Lord, hold my hand wherever I am." },
+        { "ref": "Psalm 25:16", "reflection": "David felt alone and hurting, and he told God so. You can be just as honest with God.", "prayer": "Lord, turn to me. I feel alone; please show me Your mercy." },
+        { "ref": "John 14:18", "reflection": "Jesus promised He would not leave His followers like orphans. He comes to us by His Holy Spirit.", "prayer": "Jesus, come to me. I do not want to feel alone." },
+        { "ref": "Romans 8:38-39", "reflection": "Nothing at all can separate you from God's love in Christ Jesus. Not death, not life, not anything in all creation.", "prayer": "Thank You, God, that nothing can separate me from Your love." },
+        { "ref": "Zephaniah 3:17", "reflection": "God is not distant or cold toward His people. He is with them, He saves them, and He delights in them with singing.", "prayer": "Lord, help me know that You are with me and You delight in me." },
+        { "ref": "James 4:8", "reflection": "When you take a step toward God, He comes near to you. Prayer is a step you can take right now.", "prayer": "God, I am drawing near to You. Please draw near to me." }
+      ]
+    },
+    {
+      "id": "grieving",
+      "label": "Grieving",
+      "intro": "Grief is love that has lost someone. Jesus weeps with you and holds out real hope.",
+      "crisis": true,
+      "verses": [
+        { "ref": "John 11:25-26", "jesus": true, "reflection": "Jesus spoke these words to a grieving sister before He raised her brother. He is the resurrection and the life, and death is not the end for those who believe in Him.", "prayer": "Jesus, You are the resurrection and the life. Hold me in my grief." },
+        { "ref": "Matthew 5:4", "reflection": "Jesus calls those who mourn \"blessed,\" because God Himself will comfort them. Your mourning is seen.", "prayer": "Lord, I am mourning. Please comfort me." },
+        { "ref": "John 14:1-2", "reflection": "Jesus told His friends not to be troubled, because He was preparing a place for them in His Father's house.", "prayer": "Jesus, calm my troubled heart with the hope of Your Father's house." },
+        { "ref": "John 11:35", "reflection": "The shortest verse in the Bible shows Jesus crying at His friend's grave. He does not rush you through your grief; He weeps with you.", "prayer": "Jesus, thank You that You cry with me." },
+        { "ref": "Psalm 23:4", "reflection": "The valley of the shadow of death is a real place in this life. The Shepherd walks through it with you.", "prayer": "Lord, walk with me through this valley." },
+        { "ref": "Revelation 21:4", "reflection": "A day is coming when there will be no more death, crying, or pain. God will wipe away every tear.", "prayer": "Lord, I long for the day when You wipe away every tear." },
+        { "ref": "1 Thessalonians 4:13-14", "reflection": "Christians still grieve, but not without hope. Because Jesus died and rose again, those who belong to Him will rise too.", "prayer": "Lord, help me grieve with hope in Jesus who rose again." },
+        { "ref": "2 Corinthians 1:3-4", "reflection": "God is called the God of all comfort. One day, the comfort He gives you may help you comfort someone else.", "prayer": "God of all comfort, comfort me in this sorrow." },
+        { "ref": "Psalm 73:26", "reflection": "When your body and heart feel too weak to go on, God is still the strength of your heart.", "prayer": "God, my heart feels weak. Be my strength." },
+        { "ref": "Isaiah 25:8", "reflection": "God promises to swallow up death forever and wipe tears from every face. Death will not win.", "prayer": "Lord, thank You that death will not have the last word." },
+        { "ref": "1 Corinthians 15:55-57", "reflection": "Because of Jesus, death has lost its sting. God gives us the victory through our Lord Jesus Christ.", "prayer": "Thank You, God, for the victory over death through Jesus." },
+        { "ref": "Romans 14:8", "reflection": "Whether we live or die, those who trust in Jesus belong to the Lord. Nothing changes who you belong to.", "prayer": "Lord, in life and in death, I am Yours." },
+        { "ref": "Ecclesiastes 3:4", "reflection": "There is a time to weep and a time to mourn. It is right to give yourself time to grieve.", "prayer": "Lord, give me grace for this time of weeping." }
+      ]
+    },
+    {
+      "id": "angry",
+      "label": "Angry",
+      "intro": "Anger is a strong feeling. Bring it to God before it turns into words or actions you regret.",
+      "verses": [
+        { "ref": "Luke 6:27-28", "jesus": true, "reflection": "Jesus asks something only He can help us do: love, bless, and pray for the people who hurt us. He lived this out, even on the cross.", "prayer": "Jesus, I cannot do this alone. Teach me to love and pray for the one I am angry with." },
+        { "ref": "James 1:19-20", "reflection": "Listen fast, speak slowly, and be slow to get angry. Human anger does not produce the good life God wants.", "prayer": "Lord, help me listen first and speak slowly today." },
+        { "ref": "Ephesians 4:26-27", "reflection": "Feeling angry is not always a sin, but anger can lead us into sin. Deal with it quickly, before the day ends.", "prayer": "Lord, help me settle my anger before the sun goes down." },
+        { "ref": "Proverbs 15:1", "reflection": "A gentle answer can calm someone down, while harsh words make anger grow. Your words can cool a hot moment.", "prayer": "Lord, give me gentle words when I want to answer harshly." },
+        { "ref": "Ephesians 4:31-32", "reflection": "God asks us to put away bitterness and rage, and to be kind and forgiving. We forgive because God forgave us in Christ.", "prayer": "God, take away my bitterness and make me kind and forgiving." },
+        { "ref": "Psalm 37:8", "reflection": "Staying angry and worrying about wrongs can pull you toward doing wrong yourself. Let it go into God's hands.", "prayer": "Lord, I let go of this anger and give it to You." },
+        { "ref": "Proverbs 16:32", "reflection": "Controlling your temper takes more strength than winning a battle. God can give you that strength.", "prayer": "Lord, give me the strength to rule my spirit." },
+        { "ref": "Romans 12:19", "reflection": "You do not have to get even. God is a fair judge, and He will make things right in His time.", "prayer": "Lord, I leave justice in Your hands. I will not take revenge." },
+        { "ref": "Romans 12:21", "reflection": "Evil wins when it makes us act like it. Good wins when we answer evil with good.", "prayer": "Lord, help me answer evil with good today." },
+        { "ref": "Proverbs 29:11", "reflection": "A wise person does not let every angry thought come out. Sometimes the wisest thing is to wait.", "prayer": "Lord, help me hold my words until I am calm." },
+        { "ref": "Psalm 4:4", "reflection": "When you are upset, be still and talk with your own heart before God. Quiet can stop you from sinning.", "prayer": "Lord, quiet my heart. Help me be still before You." },
+        { "ref": "Galatians 5:22-23", "reflection": "Patience, gentleness, and self-control are fruit the Holy Spirit grows in us. Ask Him for that fruit now.", "prayer": "Holy Spirit, grow patience and self-control in me." },
+        { "ref": "Matthew 5:9", "reflection": "Jesus blesses peacemakers and calls them children of God. Making peace can begin with you.", "prayer": "Jesus, make me a peacemaker in this situation." }
+      ]
+    },
+    {
+      "id": "tired",
+      "label": "Tired",
+      "intro": "When you are worn out in body or soul, Jesus offers rest.",
+      "verses": [
+        { "ref": "Matthew 11:28-29", "jesus": true, "reflection": "Jesus calls the tired and the overloaded to come to Him. He is gentle and humble, and He gives rest to your soul.", "prayer": "Jesus, I am tired. I come to You for rest." },
+        { "ref": "Mark 6:31", "reflection": "Jesus saw His friends were too busy to even eat, so He told them to come away and rest. Rest is His idea.", "prayer": "Jesus, help me come away with You and rest for a while." },
+        { "ref": "Isaiah 40:29", "reflection": "God gives power to the weak and strength to those who have none left. Your empty tank is where His strength begins.", "prayer": "Lord, I have no strength left. Please give me Yours." },
+        { "ref": "Isaiah 40:31", "reflection": "Those who wait on the Lord get new strength. Waiting on God means trusting Him and leaning on Him.", "prayer": "Lord, as I wait on You, renew my strength." },
+        { "ref": "Psalm 23:1-3", "reflection": "The Shepherd makes His sheep lie down in green grass and leads them by quiet water. He restores your soul.", "prayer": "Good Shepherd, lead me to rest and restore my soul." },
+        { "ref": "2 Corinthians 12:9", "reflection": "When Paul was weak, the Lord told him, \"My grace is sufficient for thee.\" God's power shows up best in our weakness.", "prayer": "Lord, Your grace is enough for me. Be strong in my weakness." },
+        { "ref": "Galatians 6:9", "reflection": "Doing good can wear you out. Keep going, because in the right time there will be a harvest.", "prayer": "Lord, keep me from giving up on doing good." },
+        { "ref": "Psalm 127:2", "reflection": "Working without rest and worrying late at night is not God's plan. He gives sleep to those He loves.", "prayer": "Father, I trust You with my work. Give me good sleep." },
+        { "ref": "Philippians 4:13", "reflection": "Paul wrote this about being content in good times and hard times. Christ gives strength for whatever today holds.", "prayer": "Christ, strengthen me for everything today holds." },
+        { "ref": "Psalm 121:1-2", "reflection": "Lift your eyes up. Your help comes from the Lord who made heaven and earth.", "prayer": "Lord, my help comes from You." },
+        { "ref": "Exodus 33:14", "reflection": "God promised Moses that His presence would go with him and give him rest. His presence is your rest too.", "prayer": "Lord, go with me, and give me rest." },
+        { "ref": "Jeremiah 31:25", "reflection": "God promises to refresh the weary and fill every sad soul. He can fill what feels empty in you.", "prayer": "Lord, refresh my weary soul." },
+        { "ref": "Psalm 62:1", "reflection": "Rest is not only sleep. It is your soul waiting quietly on God, who saves you.", "prayer": "God, my soul waits quietly for You." }
+      ]
+    },
+    {
+      "id": "tempted",
+      "label": "Tempted",
+      "intro": "Temptation is not sin, and you do not face it alone. Jesus was tempted and won.",
+      "verses": [
+        { "ref": "Matthew 4:4", "jesus": true, "reflection": "When Jesus was hungry and tempted in the desert, He answered with God's Word. Scripture is your weapon too.", "prayer": "Jesus, teach me to answer temptation with God's Word, like You did." },
+        { "ref": "Hebrews 4:15-16", "reflection": "Jesus understands temptation because He faced it, yet He never sinned. So you can come boldly to Him for mercy and help right when you need it.", "prayer": "Jesus, You understand. Give me grace and help right now." },
+        { "ref": "1 Corinthians 10:13", "reflection": "Your temptation is not unusual, and God is faithful. He always gives a way out. Look for it and take it.", "prayer": "Faithful God, show me the way out, and help me take it." },
+        { "ref": "James 1:12", "reflection": "Saying no to temptation is not wasted effort. God blesses the person who stands firm.", "prayer": "Lord, help me stand firm today." },
+        { "ref": "James 4:7", "reflection": "First submit to God, then resist the devil. When you do, he will run from you.", "prayer": "God, I give myself to You. Help me resist evil." },
+        { "ref": "Matthew 26:41", "reflection": "Jesus told His friends to watch and pray because the flesh is weak. Prayer helps you before temptation becomes strong.", "prayer": "Lord, keep me watchful and praying." },
+        { "ref": "Psalm 119:11", "reflection": "Learning God's Word by heart helps you not to sin. Try to memorize this verse today.", "prayer": "Lord, hide Your Word in my heart." },
+        { "ref": "Galatians 5:16", "reflection": "The way to say no to wrong desires is to say yes to the Holy Spirit, step by step.", "prayer": "Holy Spirit, lead my steps today." },
+        { "ref": "2 Timothy 2:22", "reflection": "Some temptations should be run away from, not argued with. Then run toward good things, with friends who love God.", "prayer": "Lord, help me run from wrong and toward what is good." },
+        { "ref": "Romans 6:14", "reflection": "Sin is not your master any more if you belong to Christ. You live under God's grace.", "prayer": "Thank You, Lord, that sin is not my master. I live by Your grace." },
+        { "ref": "Proverbs 4:23", "reflection": "Your heart shapes the rest of your life, so guard it carefully. Pay attention to what you let in.", "prayer": "Lord, help me guard my heart." },
+        { "ref": "Philippians 4:8", "reflection": "What you think about grows. Fill your mind with what is true, pure, lovely, and good.", "prayer": "Lord, fill my mind with what is true and pure." },
+        { "ref": "1 Peter 5:8-9", "reflection": "The enemy is real and looking for a weak moment. Stay alert, stand firm in faith, and know other believers face this too.", "prayer": "Lord, keep me alert and firm in faith." },
+        { "ref": "Romans 13:14", "reflection": "Put on Jesus like clothing, and do not make plans to give in to wrong desires.", "prayer": "Lord Jesus, I put You on today. Help me make no room for sin." }
+      ]
+    },
+    {
+      "id": "guilty",
+      "label": "Guilty",
+      "intro": "When you have done wrong, God does not push you away. In Jesus there is full forgiveness.",
+      "verses": [
+        { "ref": "John 8:11", "jesus": true, "reflection": "A woman caught in sin stood before Jesus. He did not condemn her. He forgave her and gave her a new way to live.", "prayer": "Jesus, thank You for not condemning me. Help me walk in a new way." },
+        { "ref": "1 John 1:9", "reflection": "When we confess our sins to God, He is faithful to forgive and to make us clean. Tell Him what you did.", "prayer": "Father, I confess my sin to You. Thank You for forgiving and cleansing me." },
+        { "ref": "Romans 8:1", "reflection": "There is no condemnation for those who belong to Christ Jesus. Your guilt was carried by Him.", "prayer": "Thank You, Jesus, that there is no condemnation for me in You." },
+        { "ref": "Psalm 103:12", "reflection": "East and west never meet. That is how far God removes our sins from us when He forgives.", "prayer": "Lord, thank You for taking my sins so far away." },
+        { "ref": "Isaiah 1:18", "reflection": "Even the darkest stain can be washed white as snow. God invites you to come and talk with Him about it.", "prayer": "Lord, wash me and make me clean." },
+        { "ref": "Micah 7:18-19", "reflection": "God loves to show mercy. He throws our sins into the deepest sea.", "prayer": "God, thank You that You delight to show mercy to me." },
+        { "ref": "Psalm 51:10", "reflection": "David prayed this after a terrible sin. God can create a clean heart in you and make your spirit right again.", "prayer": "Create in me a clean heart, O God." },
+        { "ref": "Psalm 32:5", "reflection": "David stopped hiding his sin and told God, and God forgave him. Hiding makes guilt heavier; confessing sets you free.", "prayer": "Lord, I will not hide from You. Please forgive me." },
+        { "ref": "Isaiah 43:25", "reflection": "God Himself blots out sins and chooses not to remember them. If God does not hold it against you, you can let it go too.", "prayer": "Lord, help me believe You no longer hold my sins against me." },
+        { "ref": "Hebrews 8:12", "reflection": "In His new covenant, God promises mercy and to remember our sins no more.", "prayer": "Thank You, God, for Your mercy and Your promise." },
+        { "ref": "Luke 15:20", "reflection": "In Jesus' story of the lost son, the father runs to hug his son before he can finish saying sorry. This is how God welcomes those who come home.", "prayer": "Father, I am coming home. Thank You for running to me." },
+        { "ref": "Ephesians 1:7", "reflection": "Our forgiveness was paid for by Jesus' blood and given freely by God's rich grace.", "prayer": "Jesus, thank You for paying for my forgiveness." },
+        { "ref": "Luke 5:32", "reflection": "Jesus came for people who know they need Him. Your sin does not disqualify you; it is why He came.", "prayer": "Jesus, I need You. Thank You for coming for sinners like me." }
+      ]
+    },
+    {
+      "id": "confused",
+      "label": "Confused",
+      "intro": "When you cannot see the way, follow the Light of the world one step at a time.",
+      "verses": [
+        { "ref": "John 8:12", "jesus": true, "reflection": "Jesus is the light of the world. When you follow Him, you are not left in the dark.", "prayer": "Jesus, be my light. I will follow You." },
+        { "ref": "Proverbs 3:5-6", "reflection": "You do not have to understand everything. Trust God with all your heart, and He will make your path straight.", "prayer": "Lord, I trust You more than my own understanding. Direct my path." },
+        { "ref": "James 1:5", "reflection": "If you need wisdom, ask God. He gives generously and does not scold you for asking.", "prayer": "God, I need wisdom. Please give it to me." },
+        { "ref": "Psalm 119:105", "reflection": "God's Word is like a lamp for the next step and a light for the road ahead.", "prayer": "Lord, let Your Word light my next step." },
+        { "ref": "Isaiah 30:21", "reflection": "God promises to guide His people, like a voice behind you saying, \"This is the way.\" Listen for Him in His Word and in prayer.", "prayer": "Lord, help me hear You say, \"This is the way.\"" },
+        { "ref": "1 Corinthians 14:33", "reflection": "Confusion does not come from God. He is a God of peace and order.", "prayer": "God of peace, bring order to my confused thoughts." },
+        { "ref": "Psalm 32:8", "reflection": "God promises to teach you and to watch over you as you go. You are not figuring this out alone.", "prayer": "Lord, teach me and guide me." },
+        { "ref": "John 16:13", "reflection": "Jesus promised the Spirit of truth would guide His followers into all truth.", "prayer": "Holy Spirit, guide me into the truth." },
+        { "ref": "Isaiah 55:8-9", "reflection": "God's thoughts are much higher than ours. Not understanding Him does not mean He is not good.", "prayer": "Lord, Your ways are higher than mine. I trust You." },
+        { "ref": "Psalm 25:4-5", "reflection": "This is a simple prayer to pray when you do not know what to do: show me, teach me, lead me.", "prayer": "Lord, show me Your ways, teach me Your paths, and lead me." },
+        { "ref": "Jeremiah 33:3", "reflection": "God invites you to call to Him. He answers and shows things you could not know on your own.", "prayer": "Lord, I am calling to You. Please answer me." },
+        { "ref": "Romans 8:28", "reflection": "God is working in all things for good for those who love Him, even in the things that confuse us.", "prayer": "Lord, I trust You are working for good in this." },
+        { "ref": "Psalm 46:10", "reflection": "Sometimes the next step is to stop and be still, and remember that God is God.", "prayer": "Lord, help me be still and know that You are God." },
+        { "ref": "Psalm 73:16-17", "reflection": "The writer could not make sense of life until he went into God's presence. Then he began to understand.", "prayer": "Lord, bring me into Your presence so I can see clearly." }
+      ]
+    },
+    {
+      "id": "doubting",
+      "label": "Doubting",
+      "intro": "Honest questions are welcome. Jesus met doubters with kindness and with Himself.",
+      "verses": [
+        { "ref": "John 20:27", "jesus": true, "reflection": "Thomas said he would not believe without seeing. Jesus did not reject him. He came and showed him His wounds.", "prayer": "Jesus, meet me in my doubts the way You met Thomas." },
+        { "ref": "Mark 9:24", "reflection": "A father cried out, \"I believe; help my unbelief.\" Jesus helped him. You can pray this honest prayer too.", "prayer": "Lord, I believe. Help my unbelief." },
+        { "ref": "Hebrews 11:1", "reflection": "Faith means being sure of what we hope for, even when we cannot see it yet.", "prayer": "Lord, grow my faith in what I cannot see." },
+        { "ref": "Romans 10:17", "reflection": "Faith grows by hearing God's Word. Keep reading and listening to it.", "prayer": "Lord, grow my faith as I hear Your Word." },
+        { "ref": "Matthew 14:31", "reflection": "When Peter doubted and began to sink, Jesus reached out right away and caught him. Your doubt does not make Him let go.", "prayer": "Jesus, catch me when I sink." },
+        { "ref": "John 20:31", "reflection": "John wrote his Gospel so that you may believe that Jesus is the Christ, the Son of God, and have life in His name.", "prayer": "Lord, as I read about Jesus, help me believe." },
+        { "ref": "1 Corinthians 15:3-4", "reflection": "The heart of the faith is simple: Christ died for our sins, was buried, and rose again on the third day.", "prayer": "Jesus, thank You that You died and rose again." },
+        { "ref": "Psalm 19:1", "reflection": "The sky and the stars tell about God's glory. Creation points to a Creator.", "prayer": "God, open my eyes to see Your glory in what You have made." },
+        { "ref": "Matthew 7:7-8", "reflection": "Jesus promises that those who ask, seek, and knock will receive and find. Keep seeking Him.", "prayer": "Lord, I am asking, seeking, and knocking. Show Yourself to me." },
+        { "ref": "Jeremiah 29:13", "reflection": "God promises that those who seek Him with all their heart will find Him.", "prayer": "God, I want to seek You with all my heart." },
+        { "ref": "2 Timothy 2:13", "reflection": "Even when our faith is weak, Christ stays faithful. His faithfulness does not depend on ours.", "prayer": "Lord, thank You for staying faithful when my faith is weak." },
+        { "ref": "Luke 24:38-39", "reflection": "After He rose, Jesus asked His scared friends why they doubted, and invited them to touch Him. He is real.", "prayer": "Risen Jesus, help me see that You are real." },
+        { "ref": "John 20:29", "reflection": "Jesus blessed people who believe without seeing Him. That includes you.", "prayer": "Jesus, I have not seen You, but I choose to trust You." }
+      ]
+    },
+    {
+      "id": "sick",
+      "label": "Sick",
+      "intro": "In sickness, Jesus is near. Bring Him your body, your pain, and your fears.",
+      "verses": [
+        { "ref": "Mark 5:34", "jesus": true, "reflection": "A woman who had been sick for twelve years reached out to Jesus. He stopped, saw her, called her \"Daughter,\" and sent her away in peace.", "prayer": "Jesus, I reach out to You. Please see me and give me Your peace." },
+        { "ref": "James 5:14-15", "reflection": "When you are sick, God wants you to ask His people to pray for you. You do not have to be sick alone.", "prayer": "Lord, lead me to people who will pray for me, and hear their prayers." },
+        { "ref": "Psalm 41:3", "reflection": "God cares for people lying sick in bed. He strengthens them and tends to them.", "prayer": "Lord, strengthen me here in my sickbed." },
+        { "ref": "Jeremiah 17:14", "reflection": "This is a short prayer you can say many times: \"Heal me, O Lord.\"", "prayer": "Heal me, O Lord, and I shall be healed." },
+        { "ref": "Psalm 103:2-3", "reflection": "David reminds his own soul not to forget God's good gifts: He forgives and He heals.", "prayer": "Lord, I will not forget all You have done for me." },
+        { "ref": "Isaiah 53:5", "reflection": "This prophecy points to Jesus. He was wounded for us, and by His wounds we are healed and given peace with God.", "prayer": "Jesus, thank You for being wounded for me." },
+        { "ref": "2 Corinthians 4:16", "reflection": "Even when our bodies grow weaker, God can make our inner life new day by day.", "prayer": "Lord, renew me inside, day by day." },
+        { "ref": "Psalm 30:2", "reflection": "David cried out to God for help, and God healed him. Cry out to Him too.", "prayer": "Lord my God, I cry out to You. Please heal me." },
+        { "ref": "Romans 8:18", "reflection": "Our suffering now is real, but it is small compared to the glory God will show us.", "prayer": "Lord, give me hope beyond this suffering." },
+        { "ref": "Matthew 4:23", "reflection": "Jesus went from town to town healing all kinds of sickness. He cares about sick bodies.", "prayer": "Jesus, Healer, look on me with mercy." },
+        { "ref": "3 John 1:2", "reflection": "John prayed that his friend would be healthy in body as well as in soul. It is good to pray for your health.", "prayer": "Lord, I pray for health in my body and in my soul." },
+        { "ref": "Psalm 6:2", "reflection": "David told God plainly that he was weak and in pain. You can be that honest with God about your body.", "prayer": "Have mercy on me, Lord, for I am weak." },
+        { "ref": "Proverbs 17:22", "reflection": "A cheerful heart is good medicine. Let God bring you small joys even on hard days.", "prayer": "Lord, give me a cheerful heart today." }
+      ]
+    },
+    {
+      "id": "money",
+      "label": "Worried about money",
+      "intro": "God knows what you need. Trust Him, work wisely, and seek His kingdom first.",
+      "verses": [
+        { "ref": "Matthew 6:33", "jesus": true, "reflection": "Jesus tells us to put God's kingdom first, and He promises the Father will take care of what we need.", "prayer": "Father, I put You first. Please provide what I need." },
+        { "ref": "Luke 12:15", "reflection": "Your life is not measured by what you own. You are worth more than your bank balance.", "prayer": "Lord, keep me from greed, and remind me what life is really about." },
+        { "ref": "Philippians 4:19", "reflection": "God promises to meet the needs of His people from His great riches in Christ Jesus.", "prayer": "God, I trust You to meet my needs." },
+        { "ref": "Hebrews 13:5", "reflection": "We can be content because God has promised never to leave us. His presence is worth more than money.", "prayer": "Lord, help me be content, because You are with me." },
+        { "ref": "Psalm 37:25", "reflection": "An old man looked back over his life and saw that God had cared for those who trusted Him.", "prayer": "Lord, thank You for caring for me through my whole life." },
+        { "ref": "Proverbs 30:8-9", "reflection": "This wise prayer asks for neither too much nor too little, just enough to stay close to God.", "prayer": "Lord, give me what I need, and keep me close to You." },
+        { "ref": "1 Timothy 6:6-8", "reflection": "We brought nothing into the world and cannot take anything out. Being godly and content is great wealth.", "prayer": "Lord, teach me to be content with food and clothing." },
+        { "ref": "Matthew 6:11", "reflection": "Jesus taught us to ask God for today's bread. You can bring your daily needs to Him.", "prayer": "Father, give me this day my daily bread." },
+        { "ref": "Proverbs 22:7", "reflection": "Debt can make a person feel like a servant. God's wisdom invites us to be careful with borrowing.", "prayer": "Lord, give me wisdom with money and help me get free of debt." },
+        { "ref": "Psalm 34:10", "reflection": "Those who seek the Lord will not lack any good thing. God knows what is truly good for you.", "prayer": "Lord, I seek You first. Thank You for every good thing." },
+        { "ref": "2 Corinthians 9:8", "reflection": "God is able to give you enough of His grace for every need, and enough to do good to others.", "prayer": "God, give me what I need and make me generous." },
+        { "ref": "Proverbs 21:5", "reflection": "Careful planning leads to having enough, while rushing leads to need. Ask God to help you plan well.", "prayer": "Lord, help me plan carefully and work hard." },
+        { "ref": "Philippians 4:11-12", "reflection": "Paul learned to be content both with a lot and with very little. Contentment is something we can learn.", "prayer": "Lord, teach me to be content whatever I have." },
+        { "ref": "Luke 12:24", "reflection": "God feeds the ravens, and Jesus says you are worth much more than birds.", "prayer": "Father, thank You that I am precious to You." }
+      ]
+    },
+    {
+      "id": "hurt",
+      "label": "Hurt by someone",
+      "intro": "When someone has wounded you, Jesus understands. He can heal you and help you forgive.",
+      "crisis": true,
+      "verses": [
+        { "ref": "Luke 23:34", "jesus": true, "reflection": "While being nailed to the cross, Jesus prayed for the people hurting Him. He knows what it is to be wronged, and He shows the way of forgiveness.", "prayer": "Jesus, You were hurt too. Help me to forgive like You." },
+        { "ref": "Matthew 5:44", "reflection": "Jesus asks us to love and pray for those who hurt us. Praying for them is a place to start.", "prayer": "Lord, I pray for the one who hurt me. Bless them and heal me." },
+        { "ref": "Colossians 3:13", "reflection": "We forgive others because Christ forgave us. Forgiving does not mean what they did was okay.", "prayer": "Lord, You forgave me. Help me forgive." },
+        { "ref": "Mark 11:25", "reflection": "When you pray, Jesus asks you to let go of what you hold against others, as your Father forgives you.", "prayer": "Father, I choose to let go of what I hold against them." },
+        { "ref": "Romans 12:17-18", "reflection": "Do not pay back evil with evil. As far as it depends on you, live at peace with others.", "prayer": "Lord, help me do my part to live at peace." },
+        { "ref": "Psalm 55:12-13", "reflection": "David was hurt most by a close friend. God understands the special pain of betrayal.", "prayer": "Lord, You see how much this betrayal hurts. Comfort me." },
+        { "ref": "Genesis 50:20", "reflection": "Joseph's brothers meant to harm him, but God turned it into something good. God can bring good out of what was meant for harm.", "prayer": "Lord, bring good out of what was meant to hurt me." },
+        { "ref": "1 Peter 2:23", "reflection": "When Jesus was insulted, He did not insult back. He trusted Himself to God, who judges fairly.", "prayer": "Lord, I trust You to judge fairly. Keep me from striking back." },
+        { "ref": "Matthew 18:21-22", "reflection": "Peter asked how many times he must forgive. Jesus' answer means: keep on forgiving.", "prayer": "Lord, give me a heart that keeps forgiving." },
+        { "ref": "Isaiah 53:3", "reflection": "This prophecy about Jesus says He was rejected and knew deep sorrow. He understands your pain from the inside.", "prayer": "Jesus, Man of sorrows, You understand my pain." },
+        { "ref": "1 Corinthians 13:4-5", "reflection": "Love is patient and kind and does not keep a list of wrongs. God's love in us can slowly heal old wounds.", "prayer": "Lord, fill me with Your patient and kind love." },
+        { "ref": "Proverbs 19:11", "reflection": "It can be a beautiful thing to overlook an offense. Ask God if this is one you can let go.", "prayer": "Lord, give me wisdom to know what to let go." },
+        { "ref": "Psalm 9:9", "reflection": "The Lord is a safe place for those who are treated badly. Run to Him.", "prayer": "Lord, You are my refuge. I run to You." }
+      ]
+    },
+    {
+      "id": "grateful",
+      "label": "Grateful",
+      "intro": "A thankful heart turns good gifts back toward the Giver.",
+      "verses": [
+        { "ref": "Luke 17:17-18", "jesus": true, "reflection": "Jesus healed ten men, but only one came back to say thank you. Jesus noticed, and He was glad for that one thankful heart.", "prayer": "Jesus, I come back to say thank You." },
+        { "ref": "1 Thessalonians 5:18", "reflection": "Giving thanks in every situation is God's will for us in Christ Jesus. There is always something to thank Him for.", "prayer": "Lord, I give thanks in this situation." },
+        { "ref": "Psalm 100:4", "reflection": "Thanksgiving is like the gate into God's presence. Start your prayers with thank You.", "prayer": "Lord, I enter Your presence with thanks and praise." },
+        { "ref": "Psalm 107:1", "reflection": "God is good, and His mercy never ends. That alone is a reason to give thanks.", "prayer": "Thank You, Lord, for You are good and Your mercy lasts forever." },
+        { "ref": "James 1:17", "reflection": "Every good gift in your life comes from God the Father, who never changes.", "prayer": "Father, thank You for every good gift You have given me." },
+        { "ref": "Psalm 103:1", "reflection": "David called on everything inside him to praise God's holy name. Gratitude can fill your whole self.", "prayer": "Bless the Lord, O my soul." },
+        { "ref": "Colossians 3:17", "reflection": "Whatever you say or do, do it in Jesus' name and give thanks to God through Him.", "prayer": "Lord Jesus, I offer You my words and work today with thanks." },
+        { "ref": "Psalm 118:24", "reflection": "Today is a day God made. Choose to rejoice in it.", "prayer": "Lord, thank You for this day. I will rejoice in it." },
+        { "ref": "2 Corinthians 9:15", "reflection": "God's greatest gift, His Son Jesus, is so great that words cannot fully describe Him.", "prayer": "Thank You, God, for the gift of Jesus." },
+        { "ref": "Psalm 9:1", "reflection": "Thankfulness grows when we tell others what God has done.", "prayer": "Lord, I praise You with my whole heart and will tell of Your works." },
+        { "ref": "Psalm 16:6", "reflection": "David looked at his life and saw that God had given him good things. Take time to notice your blessings.", "prayer": "Lord, thank You for the good places You have put me." },
+        { "ref": "Ephesians 5:20", "reflection": "We give thanks always, for everything, in the name of our Lord Jesus Christ.", "prayer": "Father, I thank You for everything, in Jesus' name." },
+        { "ref": "Colossians 2:6-7", "reflection": "A life rooted in Christ overflows with thankfulness.", "prayer": "Lord, root me in You and make me overflow with thanks." },
+        { "ref": "John 6:11", "reflection": "Before Jesus fed the crowd, He gave thanks for a small meal. He shows us how to thank God for what we have.", "prayer": "Jesus, teach me to give thanks for what I have, even when it seems small." }
+      ]
+    },
+    {
+      "id": "joyful",
+      "label": "Joyful",
+      "intro": "Joy is a gift from God. Celebrate it with Him.",
+      "verses": [
+        { "ref": "John 15:11", "jesus": true, "reflection": "Jesus wants His own joy to live in you and make your joy full. True joy is found in being close to Him.", "prayer": "Jesus, fill me with Your joy." },
+        { "ref": "Nehemiah 8:10", "reflection": "The joy that comes from the Lord makes His people strong.", "prayer": "Lord, let Your joy be my strength." },
+        { "ref": "Philippians 4:4", "reflection": "Paul wrote this from prison. Joy in the Lord does not depend on how things are going.", "prayer": "Lord, I rejoice in You today." },
+        { "ref": "Psalm 16:11", "reflection": "Full joy is found in God's presence. Enjoy being with Him.", "prayer": "Lord, I want to enjoy Your presence." },
+        { "ref": "Psalm 126:3", "reflection": "Name the great things God has done for you, and let them make you glad.", "prayer": "Lord, You have done great things for me. I am glad!" },
+        { "ref": "Luke 15:7", "reflection": "Heaven celebrates when one person turns back to God. Every person matters to God.", "prayer": "Father, thank You for the joy in heaven when someone comes home to You." },
+        { "ref": "1 Peter 1:8", "reflection": "Believers love Jesus without seeing Him, and trusting Him brings a joy too big for words.", "prayer": "Jesus, I love You, and I rejoice in You." },
+        { "ref": "Psalm 30:11", "reflection": "God can turn sadness into dancing. Thank Him for the changes He has brought.", "prayer": "Lord, thank You for turning my mourning into dancing." },
+        { "ref": "Isaiah 55:12", "reflection": "God's people go out with joy and peace, and even creation seems to celebrate with them.", "prayer": "Lord, lead me out today with joy and peace." },
+        { "ref": "Luke 2:10-11", "reflection": "The angel brought good news of great joy for all people: a Savior was born, Christ the Lord.", "prayer": "Thank You, God, for the good news of Jesus our Savior." },
+        { "ref": "James 1:2-3", "reflection": "Joy is possible even in hard tests, because God uses them to grow patience in us.", "prayer": "Lord, help me find joy even in my trials." },
+        { "ref": "Psalm 100:1-2", "reflection": "Serving God is not meant to be gloomy. Come to Him with gladness and singing.", "prayer": "Lord, I come before You with a happy song." },
+        { "ref": "John 16:24", "reflection": "Jesus invites us to ask the Father in His name, so that our joy may be full.", "prayer": "Father, in Jesus' name I bring You my requests." },
+        { "ref": "Habakkuk 3:17-18", "reflection": "Even if everything failed, the prophet chose to rejoice in God. Joy in God runs deeper than circumstances.", "prayer": "Lord, whatever happens, I will rejoice in You." }
+      ]
+    },
+    {
+      "id": "hopeful",
+      "label": "Hopeful",
+      "intro": "Hope in God is not wishful thinking. It is anchored in Jesus.",
+      "verses": [
+        { "ref": "John 10:10", "jesus": true, "reflection": "Jesus came so that we may have life, full and overflowing. The enemy takes away, but Jesus gives.", "prayer": "Jesus, thank You for the full life You give." },
+        { "ref": "Jeremiah 29:11", "reflection": "God spoke these words to His people in exile. His thoughts toward them were of peace and a future, and His heart is still good toward His people.", "prayer": "Lord, thank You that Your thoughts toward me are of peace." },
+        { "ref": "Romans 5:3-5", "reflection": "Hard times build patience, character, and hope. And hope in God will not let us down, because His love fills our hearts.", "prayer": "God, use even my troubles to grow hope in me." },
+        { "ref": "Lamentations 3:24", "reflection": "When the Lord is your portion, the best thing you have, you can always hope in Him.", "prayer": "Lord, You are my portion. I will hope in You." },
+        { "ref": "Hebrews 6:19", "reflection": "Hope in Jesus is like an anchor that holds your soul steady in any storm.", "prayer": "Jesus, be the anchor of my soul." },
+        { "ref": "Isaiah 43:19", "reflection": "God can make a road through the wilderness and rivers in the desert. Watch for the new thing He is doing.", "prayer": "Lord, open my eyes to the new thing You are doing." },
+        { "ref": "1 Peter 1:3", "reflection": "Because Jesus rose from the dead, we have a living hope. Our hope is alive because He is alive.", "prayer": "Thank You, God, for a living hope through the risen Jesus." },
+        { "ref": "Psalm 39:7", "reflection": "When you ask what you are really waiting for, the answer is God Himself.", "prayer": "Lord, my hope is in You." },
+        { "ref": "Romans 8:24-25", "reflection": "We hope for what we cannot see yet, so we wait for it patiently.", "prayer": "Lord, help me wait with patience and hope." },
+        { "ref": "Psalm 31:24", "reflection": "Those who hope in the Lord can take courage. He will strengthen your heart.", "prayer": "Lord, strengthen my heart as I hope in You." },
+        { "ref": "Revelation 21:5", "reflection": "God says, \"I make all things new.\" This is the future He promises.", "prayer": "Lord, thank You that You are making all things new." },
+        { "ref": "Philippians 1:6", "reflection": "God finishes what He starts. The good work He began in you will be completed.", "prayer": "Lord, thank You for finishing the work You started in me." },
+        { "ref": "Titus 2:13", "reflection": "Christians look forward to the blessed hope: the glorious appearing of our Savior Jesus Christ.", "prayer": "Lord Jesus, I look forward to the day You appear." },
+        { "ref": "Psalm 71:14", "reflection": "Hope is a choice we can keep making, and it leads to more and more praise.", "prayer": "Lord, I will keep hoping and keep praising You." }
+      ]
+    },
+    {
+      "id": "guidance",
+      "label": "Need guidance",
+      "intro": "God guides His people. Listen to Jesus, read His Word, and seek wise counsel.",
+      "verses": [
+        { "ref": "John 10:27", "jesus": true, "reflection": "Jesus is the Good Shepherd. His sheep know His voice and follow Him. Getting to know His words helps you recognize His voice.", "prayer": "Jesus, my Shepherd, help me hear Your voice and follow You." },
+        { "ref": "Proverbs 16:9", "reflection": "Make your plans, but hold them with open hands. The Lord guides your steps.", "prayer": "Lord, here are my plans. Direct my steps." },
+        { "ref": "Psalm 37:23", "reflection": "God cares about the steps of those who walk with Him, and He delights in their way.", "prayer": "Lord, order my steps today." },
+        { "ref": "Proverbs 11:14", "reflection": "God often guides us through wise people. For big choices, ask trusted believers for advice.", "prayer": "Lord, lead me to wise counsel." },
+        { "ref": "Isaiah 58:11", "reflection": "God promises to guide His people always and to satisfy them even in dry seasons.", "prayer": "Lord, guide me continually and refresh my soul." },
+        { "ref": "Psalm 25:9", "reflection": "God guides the humble. A teachable heart is ready to be led.", "prayer": "Lord, make me humble and teachable." },
+        { "ref": "Romans 12:2", "reflection": "As God renews your mind, you learn to recognize His good and perfect will.", "prayer": "Lord, renew my mind so I can know Your will." },
+        { "ref": "John 14:6", "reflection": "Jesus does not only show the way. He is the way, the truth, and the life.", "prayer": "Jesus, You are my way. I follow You." },
+        { "ref": "Psalm 143:10", "reflection": "The best guidance prayer is not just \"tell me what to do\" but \"teach me to do Your will.\"", "prayer": "Teach me to do Your will, for You are my God." },
+        { "ref": "Matthew 7:24", "reflection": "A wise life is built on hearing Jesus' words and doing them.", "prayer": "Jesus, help me build my life on Your words." },
+        { "ref": "Colossians 3:15", "reflection": "Let the peace of Christ be like a referee in your heart as you decide.", "prayer": "Lord, let Your peace rule in my heart." },
+        { "ref": "Micah 6:8", "reflection": "Some guidance is already clear: do what is right, love mercy, and walk humbly with God.", "prayer": "Lord, help me do justly, love mercy, and walk humbly with You." },
+        { "ref": "Luke 22:42", "reflection": "Jesus prayed honestly about what He wanted, and then said to the Father, \"Not my will, but thine.\" He shows us how to pray about a hard choice.", "prayer": "Father, not my will, but Yours be done." }
+      ]
+    },
+    {
+      "id": "new-to-faith",
+      "label": "New to faith",
+      "intro": "Welcome! Here are some first steps for following Jesus.",
+      "verses": [
+        { "ref": "John 3:16", "jesus": true, "reflection": "This is the good news in one verse: God loves the world so much that He gave His Son. Everyone who believes in Him has eternal life.", "prayer": "God, thank You for loving me and giving Your Son for me." },
+        { "ref": "John 1:12", "reflection": "Everyone who receives Jesus and believes in Him is given the right to become a child of God.", "prayer": "Jesus, I receive You. Thank You for making me God's child." },
+        { "ref": "2 Corinthians 5:17", "reflection": "In Christ you are a new creation. The old has gone, and the new has come.", "prayer": "Lord, thank You for making me new." },
+        { "ref": "Romans 10:9-10", "reflection": "Salvation is simple: say that Jesus is Lord, and believe in your heart that God raised Him from the dead.", "prayer": "Jesus, You are Lord. I believe God raised You from the dead." },
+        { "ref": "Ephesians 2:8-9", "reflection": "You are saved by God's grace through faith, not by being good enough. It is God's gift.", "prayer": "Thank You, God, for saving me by grace as a gift." },
+        { "ref": "John 6:37", "reflection": "Jesus promises that He will never turn away anyone who comes to Him.", "prayer": "Jesus, thank You for welcoming me." },
+        { "ref": "Romans 5:8", "reflection": "God did not wait for us to be good. Christ died for us while we were still sinners.", "prayer": "Thank You, Jesus, for dying for me." },
+        { "ref": "1 John 5:13", "reflection": "God wants you to know, not just hope, that you have eternal life through His Son.", "prayer": "Lord, help me rest in the eternal life You give." },
+        { "ref": "Acts 2:42", "reflection": "The first Christians grew by learning God's Word, sharing life together, remembering Jesus, and praying.", "prayer": "Lord, help me grow with other believers." },
+        { "ref": "2 Timothy 3:16-17", "reflection": "All Scripture is breathed out by God and helps you grow. Read a little every day.", "prayer": "Lord, help me love Your Word and read it every day." },
+        { "ref": "1 Peter 2:2", "reflection": "A baby needs milk to grow. A new believer grows by taking in God's Word.", "prayer": "Lord, give me a hunger for Your Word." },
+        { "ref": "Revelation 3:20", "reflection": "Jesus knocks and waits. When you open the door, He comes in and shares life with you.", "prayer": "Jesus, I open the door. Come in." },
+        { "ref": "Hebrews 10:24-25", "reflection": "Following Jesus is not meant to be done alone. Meet with other believers and encourage each other.", "prayer": "Lord, lead me to a church family." },
+        { "ref": "Luke 15:10", "reflection": "When someone turns to God, there is joy in heaven. Heaven is glad you are here.", "prayer": "Thank You, Father, for the joy of coming home to You." }
+      ]
+    }
+  ]
+}
