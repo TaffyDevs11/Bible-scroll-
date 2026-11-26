@@ -1,0 +1,680 @@
+{
+  "note": "Topic map for Ask Bible Advisor. 'keywords' are matched against the question (single words also match simple plurals and -ing/-ed forms; phrases match as written). Verses are references only; the app shows the exact bundled text. Reflections were written for this app and are not Scripture.",
+  "topics": [
+    { "id": "forgiveness", "title": "Forgiving others", "summary": "God forgives us, and He asks us to forgive others too.",
+      "keywords": ["forgive", "forgiving", "forgiveness", "cant forgive", "can't forgive", "unforgiveness", "let it go", "hold a grudge", "grudge", "resent", "resentment", "wronged me", "betrayed", "betrayal", "brother", "sister", "apologize", "reconcile", "reconciliation", "make peace"],
+      "verses": [
+        { "ref": "Matthew 6:14-15", "reflection": "Jesus ties our forgiveness of others to the way we receive God's forgiveness. Forgiving is part of living in God's mercy." },
+        { "ref": "Matthew 18:21-22", "reflection": "Peter wanted a limit on forgiveness. Jesus answered that forgiveness keeps going." },
+        { "ref": "Luke 6:37", "reflection": "Jesus calls us to stop judging and condemning, and to forgive. Mercy given is mercy received." },
+        { "ref": "Ephesians 4:32", "reflection": "We forgive because God first forgave us in Christ. Kindness and a tender heart make forgiveness possible." },
+        { "ref": "Colossians 3:13", "reflection": "Forgiving is not saying the wrong did not matter. It is choosing to release it, just as Christ released us." }
+      ] },
+    { "id": "guilt", "priority": 1, "title": "Guilt and being forgiven", "summary": "In Jesus, God offers full forgiveness to everyone who comes to Him.",
+      "keywords": ["guilt", "guilty", "ashamed", "shame", "forgive me", "can god forgive", "did something wrong", "messed up", "regret", "my sin", "my past", "condemned", "unforgivable", "dirty", "failure", "failed god"],
+      "verses": [
+        { "ref": "John 8:11", "reflection": "Jesus did not condemn the woman brought to Him. He forgave her and called her to a new life." },
+        { "ref": "1 John 1:9", "reflection": "Confession is simply telling God the truth. He is faithful to forgive and cleanse." },
+        { "ref": "Romans 8:1", "reflection": "For those who belong to Christ Jesus, there is no condemnation left." },
+        { "ref": "Psalm 103:12", "reflection": "God removes forgiven sin as far as the east is from the west, a distance that never ends." },
+        { "ref": "Isaiah 1:18", "reflection": "No stain is too deep for God to wash white as snow." }
+      ] },
+    { "id": "marriage", "title": "Marriage", "summary": "God designed marriage as a lifelong union of love, faithfulness and self-giving.",
+      "keywords": ["marriage", "married", "husband", "wife", "spouse", "wedding", "marry", "engaged", "my marriage", "fighting with my wife", "fighting with my husband", "couple", "newlywed", "anniversary"],
+      "verses": [
+        { "ref": "Mark 10:9", "reflection": "Jesus says marriage is something God joins together. That makes it worth protecting." },
+        { "ref": "Genesis 2:24", "reflection": "From the beginning, God's plan was for a husband and wife to leave, hold fast, and become one." },
+        { "ref": "Ephesians 5:25", "reflection": "The model for loving a spouse is Christ, who gave Himself for His people." },
+        { "ref": "1 Corinthians 13:4-7", "reflection": "This picture of love is patient, kind, and enduring. It is a daily guide for any marriage." },
+        { "ref": "Ecclesiastes 4:9-10", "reflection": "Two are better than one, because each can lift the other up when they fall." }
+      ] },
+    { "id": "family", "title": "Family", "summary": "God cares about families and calls us to honor, love and serve one another at home.",
+      "keywords": ["family", "parents", "mother", "father", "mom", "dad", "siblings", "relatives", "home", "household", "in-laws", "in laws", "family problems", "family conflict"],
+      "verses": [
+        { "ref": "Exodus 20:12", "reflection": "Honoring your father and mother is one of the Ten Commandments, and it comes with a promise." },
+        { "ref": "Joshua 24:15", "reflection": "Joshua decided that his whole household would serve the Lord. Every family can make that choice." },
+        { "ref": "Psalm 133:1", "reflection": "Unity in a family is good and pleasant, like a gift from God." },
+        { "ref": "Ephesians 6:1-3", "reflection": "God's way for children is to obey and honor their parents in the Lord." },
+        { "ref": "1 Timothy 5:8", "reflection": "Caring for your own family is a real part of living out your faith." }
+      ] },
+    { "id": "parenting", "title": "Raising children", "summary": "Children are a gift from God, and parents are called to raise them gently in His ways.",
+      "keywords": ["parenting", "parent", "children", "child", "kids", "son", "daughter", "teenager", "raising", "baby", "toddler", "discipline my child", "my kids"],
+      "verses": [
+        { "ref": "Mark 10:14", "reflection": "Jesus welcomed children and was upset when people tried to keep them away from Him." },
+        { "ref": "Psalm 127:3", "reflection": "Children are a heritage and a gift from the Lord." },
+        { "ref": "Proverbs 22:6", "reflection": "The ways we teach children when they are young shape the path they walk later." },
+        { "ref": "Deuteronomy 6:6-7", "reflection": "Faith is passed on in everyday moments: sitting at home, walking, lying down, and getting up." },
+        { "ref": "Ephesians 6:4", "reflection": "Parents are asked not to provoke their children to anger, but to bring them up in the Lord's care and teaching." }
+      ] },
+    { "id": "work", "title": "Work and jobs", "summary": "Work can be done for the Lord, with diligence and trust.",
+      "keywords": ["work", "job", "career", "boss", "coworker", "co-worker", "employer", "unemployed", "jobless", "fired", "laid off", "business", "interview", "promotion", "office", "lazy", "workplace", "looking for a job"],
+      "verses": [
+        { "ref": "Colossians 3:23-24", "reflection": "Whatever your job, you can do it with all your heart as service to the Lord." },
+        { "ref": "Proverbs 16:3", "reflection": "Bring your work and plans to the Lord, and He will establish them." },
+        { "ref": "Psalm 90:17", "reflection": "It is right to ask God to bless and establish the work of your hands." },
+        { "ref": "Proverbs 14:23", "reflection": "Real work brings profit, while only talking about it leads to need." },
+        { "ref": "Ecclesiastes 9:10", "reflection": "Whatever you do, do it with all your strength while you have the chance." }
+      ] },
+    { "id": "fear", "priority": 1, "title": "Fear", "summary": "God is with you, so fear does not have to rule you.",
+      "keywords": ["fear", "afraid", "scared", "terrified", "frightened", "panic", "phobia", "nightmare", "dread", "scary", "courage"],
+      "verses": [
+        { "ref": "Matthew 14:27", "reflection": "In the storm, Jesus says, \"It is I; be not afraid.\" His presence is the answer to fear." },
+        { "ref": "Isaiah 41:10", "reflection": "God promises His presence, His strength, and His help to those who are afraid." },
+        { "ref": "Psalm 27:1", "reflection": "When the Lord is your light and salvation, fear loses its grip." },
+        { "ref": "2 Timothy 1:7", "reflection": "God gives power, love, and a sound mind, not a spirit of fear." },
+        { "ref": "Psalm 56:3", "reflection": "When fear comes, you can choose to trust God right then." }
+      ] },
+    { "id": "anxiety", "priority": 1, "title": "Worry and anxiety", "summary": "Bring every worry to God in prayer and receive His peace.",
+      "keywords": ["anxiety", "anxious", "worry", "worried", "worrying", "overthinking", "nervous", "uneasy", "restless", "cant stop thinking", "panic attack", "on edge", "what if"],
+      "verses": [
+        { "ref": "Matthew 6:34", "reflection": "Jesus invites you to live today with Him and leave tomorrow in the Father's hands." },
+        { "ref": "Philippians 4:6-7", "reflection": "Turn every worry into a prayer with thanks, and God's peace will guard your heart and mind." },
+        { "ref": "1 Peter 5:7", "reflection": "You can give all your cares to God, because He cares for you." },
+        { "ref": "Isaiah 26:3", "reflection": "Perfect peace comes to the mind that stays on God." },
+        { "ref": "Psalm 94:19", "reflection": "When your thoughts are many, God's comfort can bring joy to your soul." }
+      ] },
+    { "id": "salvation", "priority": 1, "title": "Being saved", "summary": "Salvation is God's free gift through faith in Jesus Christ.",
+      "keywords": ["saved", "salvation", "save me", "be saved", "how to be saved", "born again", "eternal life", "go to heaven", "get to heaven", "accept jesus", "become a christian", "believe in jesus", "gospel", "good news", "redemption"],
+      "verses": [
+        { "ref": "John 3:16", "reflection": "God loved the world so much that He gave His Son, so that whoever believes in Him has eternal life." },
+        { "ref": "John 5:24", "reflection": "Jesus says that whoever hears His word and believes has already passed from death to life." },
+        { "ref": "Romans 6:23", "reflection": "Sin earns death, but God offers eternal life as a free gift through Jesus Christ." },
+        { "ref": "Ephesians 2:8-9", "reflection": "You cannot earn salvation. It is God's gift, received by faith." },
+        { "ref": "Acts 4:12", "reflection": "Salvation is found in no other name than Jesus." }
+      ] },
+    { "id": "prayer", "priority": 1, "title": "Prayer", "summary": "Prayer is talking with your Father, who hears you.",
+      "keywords": ["prayer", "pray", "praying", "how to pray", "unanswered prayer", "god hear me", "does god hear", "talk to god", "intercede", "fasting", "lords prayer"],
+      "verses": [
+        { "ref": "Matthew 6:9-13", "reflection": "Jesus gave us a pattern for prayer: honor God, seek His will, ask for daily needs, forgiveness, and protection." },
+        { "ref": "Matthew 6:6", "reflection": "Prayer does not need an audience. Your Father sees and hears you in secret." },
+        { "ref": "Luke 18:1", "reflection": "Jesus taught that we should always pray and not give up." },
+        { "ref": "Romans 8:26", "reflection": "When you do not know what to pray, the Holy Spirit helps you." },
+        { "ref": "1 John 5:14", "reflection": "When we ask according to God's will, we can be confident that He hears us." }
+      ] },
+    { "id": "death", "title": "Death and dying", "summary": "Jesus is the resurrection and the life. Death is not the end for those who trust Him.",
+      "keywords": ["death", "dying", "die", "dead", "funeral", "afraid to die", "terminal", "end of life", "passed away", "after death", "what happens when we die", "mortality"],
+      "verses": [
+        { "ref": "John 11:25-26", "reflection": "Jesus promises that those who believe in Him will live, even though they die." },
+        { "ref": "John 14:2-3", "reflection": "Jesus is preparing a place for His people, and He will bring them to be with Him." },
+        { "ref": "Psalm 23:6", "reflection": "Goodness and mercy follow God's people all their days, and they will dwell in His house forever." },
+        { "ref": "Philippians 1:21", "reflection": "For Paul, living meant Christ, and dying meant gaining even more of Him." },
+        { "ref": "Hebrews 2:14-15", "reflection": "Jesus became human to break the power of death and free people from the fear of it." }
+      ] },
+    { "id": "money", "title": "Money and provision", "summary": "God knows your needs. Trust Him, work wisely, and seek His kingdom first.",
+      "keywords": ["money", "finances", "financial", "debt", "bills", "rent", "poor", "poverty", "broke", "afford", "salary", "income", "budget", "provide", "provision", "loan", "pay", "rich", "wealth"],
+      "verses": [
+        { "ref": "Matthew 6:33", "reflection": "Put God's kingdom first, and trust Him with your needs." },
+        { "ref": "Luke 12:15", "reflection": "Your life is worth far more than what you own." },
+        { "ref": "Philippians 4:19", "reflection": "God promises to supply the needs of His people." },
+        { "ref": "Hebrews 13:5", "reflection": "Contentment grows from knowing God will never leave you." },
+        { "ref": "Proverbs 22:7", "reflection": "Debt has a cost. God's wisdom invites careful choices with borrowing." }
+      ] },
+    { "id": "purpose", "title": "Purpose and meaning", "summary": "God made you on purpose and for a purpose: to know Him, love Him and do good.",
+      "keywords": ["purpose", "meaning", "meaningless", "why am i here", "point of life", "calling", "what should i do with my life", "destiny", "plan for my life", "gods plan", "worth living", "direction", "vocation"],
+      "verses": [
+        { "ref": "Matthew 22:37-39", "reflection": "Jesus summed up life's purpose: love God with everything, and love your neighbor as yourself." },
+        { "ref": "Matthew 5:16", "reflection": "Your good works can shine so others see them and give glory to God." },
+        { "ref": "Ephesians 2:10", "reflection": "You are God's workmanship, created in Christ for good works He prepared for you." },
+        { "ref": "Jeremiah 1:5", "reflection": "God knew Jeremiah before he was born and had a purpose for him. God knows you too." },
+        { "ref": "Ecclesiastes 12:13", "reflection": "After searching everything, the Teacher concluded: honor God and keep His commands." }
+      ] },
+    { "id": "anger", "title": "Anger", "summary": "Bring anger to God before it turns into sin.",
+      "keywords": ["anger", "angry", "mad", "furious", "rage", "temper", "frustrated", "annoyed", "hate", "irritated", "lose my temper", "yelling", "shouting"],
+      "verses": [
+        { "ref": "Luke 6:27-28", "reflection": "Jesus calls us to love and pray for those who wrong us. He gives the strength to do it." },
+        { "ref": "James 1:19-20", "reflection": "Be quick to listen, slow to speak, and slow to anger." },
+        { "ref": "Ephesians 4:26-27", "reflection": "Anger can be felt without sinning, but it should be dealt with quickly." },
+        { "ref": "Proverbs 15:1", "reflection": "A gentle answer can turn anger away." },
+        { "ref": "Proverbs 16:32", "reflection": "Ruling your own spirit takes more strength than conquering a city." }
+      ] },
+    { "id": "temptation", "title": "Temptation", "summary": "God always provides a way out, and Jesus understands temptation.",
+      "keywords": ["temptation", "tempted", "tempt", "resist", "struggle with sin", "keep sinning", "give in", "weakness", "urge", "willpower"],
+      "verses": [
+        { "ref": "Matthew 26:41", "reflection": "Jesus tells us to watch and pray, because the spirit is willing but the flesh is weak." },
+        { "ref": "1 Corinthians 10:13", "reflection": "God is faithful and will always provide a way out. Look for it." },
+        { "ref": "Hebrews 4:15-16", "reflection": "Jesus was tempted in every way, yet without sin. Come to Him for help." },
+        { "ref": "James 4:7", "reflection": "Submit to God and resist the devil, and he will flee." },
+        { "ref": "Psalm 119:11", "reflection": "Storing God's Word in your heart helps you not to sin." }
+      ] },
+    { "id": "healing", "title": "Sickness and healing", "summary": "Jesus cares for the sick. Bring your body and your pain to Him.",
+      "keywords": ["sick", "sickness", "ill", "illness", "disease", "healing", "heal", "cancer", "pain", "hospital", "surgery", "diagnosis", "health", "chronic", "injury", "covid", "fever", "doctor"],
+      "verses": [
+        { "ref": "Mark 5:34", "reflection": "Jesus stopped for a sick woman, called her \"Daughter,\" and gave her peace." },
+        { "ref": "Matthew 4:23", "reflection": "Jesus went from place to place healing all kinds of sickness." },
+        { "ref": "James 5:14-15", "reflection": "When sick, ask God's people to pray for you." },
+        { "ref": "Jeremiah 17:14", "reflection": "\"Heal me, O Lord\" is a prayer God welcomes." },
+        { "ref": "2 Corinthians 4:16", "reflection": "Even as the body weakens, God can renew the inner person day by day." }
+      ] },
+    { "id": "patience", "title": "Patience", "summary": "God grows patience in us as we wait on Him.",
+      "keywords": ["patience", "patient", "impatient", "how long", "taking too long", "endure", "perseverance", "persevere", "slow"],
+      "verses": [
+        { "ref": "Psalm 27:14", "reflection": "Waiting on the Lord takes courage, and He strengthens your heart." },
+        { "ref": "Romans 12:12", "reflection": "Rejoice in hope, be patient in trouble, and keep praying." },
+        { "ref": "James 5:7-8", "reflection": "Like a farmer waiting for rain and harvest, be patient and steady your heart." },
+        { "ref": "Galatians 6:9", "reflection": "Do not give up doing good. The harvest comes in due time." },
+        { "ref": "Ecclesiastes 7:8", "reflection": "A patient spirit is better than a proud one." }
+      ] },
+    { "id": "love", "title": "Loving others", "summary": "We love because God first loved us.",
+      "keywords": ["love", "loving", "how to love", "love others", "love my neighbor", "neighbor", "unloving", "hard to love", "compassion"],
+      "verses": [
+        { "ref": "John 13:34-35", "reflection": "Jesus gave a new command: love one another as He has loved you." },
+        { "ref": "1 John 4:7-8", "reflection": "Love comes from God, because God is love." },
+        { "ref": "1 John 4:19", "reflection": "Our love is a response to the love God showed us first." },
+        { "ref": "1 Corinthians 13:13", "reflection": "Faith, hope, and love remain, and the greatest is love." },
+        { "ref": "1 John 3:18", "reflection": "Real love shows itself in actions, not only words." }
+      ] },
+    { "id": "gods-love", "title": "Does God love me?", "summary": "Yes. God's love for you is everlasting and shown most clearly in Jesus.",
+      "keywords": ["does god love me", "god love me", "gods love", "god hates me", "unloved", "nobody loves me", "loved by god", "god care about me", "does god care", "worthy of love"],
+      "verses": [
+        { "ref": "John 15:9", "reflection": "Jesus loves you the way the Father loves Him, and invites you to remain in that love." },
+        { "ref": "Romans 5:8", "reflection": "God showed His love by Christ dying for us while we were still sinners." },
+        { "ref": "Jeremiah 31:3", "reflection": "God's love is everlasting. He draws His people with kindness." },
+        { "ref": "1 John 3:1", "reflection": "God loves you so much that He calls you His child." },
+        { "ref": "Romans 8:38-39", "reflection": "Nothing in all creation can separate you from God's love in Christ Jesus." }
+      ] },
+    { "id": "loneliness", "priority": 1, "title": "Loneliness", "summary": "Even when you feel alone, God is with you.",
+      "keywords": ["lonely", "loneliness", "alone", "no friends", "isolated", "nobody cares", "left out", "rejected", "abandoned", "forgotten", "single"],
+      "verses": [
+        { "ref": "Matthew 28:20", "reflection": "Jesus promises He is with you always, to the end of the age." },
+        { "ref": "Deuteronomy 31:8", "reflection": "The Lord goes before you and will never leave you." },
+        { "ref": "Psalm 68:6", "reflection": "God places lonely people in families. Ask Him to lead you to His people." },
+        { "ref": "Isaiah 49:15-16", "reflection": "God will never forget you. Your name is written on His hands." },
+        { "ref": "John 14:18", "reflection": "Jesus will not leave His followers as orphans." }
+      ] },
+    { "id": "grief", "priority": 1, "title": "Grief and loss", "summary": "Jesus weeps with you and gives a real hope beyond death.",
+      "keywords": ["grief", "grieving", "mourning", "loss", "lost my", "died", "passed away", "miscarriage", "widow", "widower", "bereaved", "lost a loved one", "my mother died", "my father died", "my friend died"],
+      "verses": [
+        { "ref": "John 11:35", "reflection": "Jesus wept at His friend's grave. He knows grief, and He shares yours." },
+        { "ref": "Matthew 5:4", "reflection": "Those who mourn are blessed, because God will comfort them." },
+        { "ref": "Psalm 34:18", "reflection": "God is near to the brokenhearted." },
+        { "ref": "1 Thessalonians 4:13-14", "reflection": "Christians grieve, but with hope, because Jesus died and rose again." },
+        { "ref": "Revelation 21:4", "reflection": "God will wipe away every tear. Death and sorrow will be gone." }
+      ] },
+    { "id": "depression", "priority": 1, "title": "Feeling low", "summary": "God meets us in the pit and lifts us up. It is also wise to ask for help from people and doctors.",
+      "keywords": ["depressed", "depression", "low", "down", "empty", "numb", "sad", "sadness", "unhappy", "miserable", "dark place", "no energy", "crying", "heavy heart", "burnout"],
+      "verses": [
+        { "ref": "Matthew 11:28", "reflection": "Jesus invites the weary and heavy-laden to come to Him for rest." },
+        { "ref": "Psalm 42:5", "reflection": "The psalmist talks honestly to his downcast soul and tells it to hope in God." },
+        { "ref": "Psalm 40:1-3", "reflection": "God heard David's cry, lifted him from the pit, and put a new song in his mouth." },
+        { "ref": "1 Kings 19:4-5", "reflection": "When Elijah was exhausted and wanted to give up, God let him sleep and sent food. God cares for the whole person." },
+        { "ref": "Psalm 3:3", "reflection": "The Lord is a shield around you and the one who lifts your head." }
+      ] },
+    { "id": "hopeless", "title": "When life feels hopeless", "summary": "Your life is precious to God. Please reach out for help right now.", "crisis": true,
+      "keywords": ["hopeless", "suicide", "suicidal", "kill myself", "want to die", "end my life", "end it all", "no reason to live", "better off dead", "self harm", "self-harm", "hurt myself", "cutting", "give up on life", "cant go on", "can't go on", "no way out"],
+      "verses": [
+        { "ref": "John 10:10", "reflection": "Jesus came to give life, full and abundant. The voice that says to destroy is not His." },
+        { "ref": "Psalm 34:18", "reflection": "God is close to you when your heart is broken and your spirit is crushed." },
+        { "ref": "Psalm 139:13-14", "reflection": "God made you with care. You are fearfully and wonderfully made." },
+        { "ref": "Lamentations 3:21-23", "reflection": "In a very dark time, the writer remembered God's mercy and found hope again." },
+        { "ref": "Isaiah 42:3", "reflection": "God will not break a bruised reed or put out a flickering flame. He is gentle with the weak." }
+      ] },
+    { "id": "doubt", "title": "Doubt and faith", "summary": "Honest doubts are welcome. Jesus meets doubters with kindness.",
+      "keywords": ["doubt", "doubting", "doubts", "is god real", "does god exist", "is the bible true", "faith", "unbelief", "questions", "proof", "evidence", "not sure i believe", "losing faith", "skeptic"],
+      "verses": [
+        { "ref": "John 20:27", "reflection": "Jesus came to doubting Thomas and invited him to see and believe." },
+        { "ref": "Mark 9:24", "reflection": "\"I believe; help my unbelief\" is an honest prayer Jesus answered." },
+        { "ref": "Matthew 7:7-8", "reflection": "Jesus promises that seekers find." },
+        { "ref": "1 Corinthians 15:3-4", "reflection": "The faith rests on real events: Christ died, was buried, and rose again." },
+        { "ref": "Romans 10:17", "reflection": "Faith grows by hearing God's Word." }
+      ] },
+    { "id": "wisdom", "title": "Wisdom and decisions", "summary": "Ask God for wisdom, search His Word, and seek wise counsel.",
+      "keywords": ["wisdom", "wise", "decision", "decide", "choice", "choose", "what should i do", "confused", "guidance", "advice", "which way", "direction", "discern", "gods will"],
+      "verses": [
+        { "ref": "James 1:5", "reflection": "If you lack wisdom, ask God. He gives generously." },
+        { "ref": "Proverbs 3:5-6", "reflection": "Trust God fully rather than leaning only on your own understanding, and He will direct your paths." },
+        { "ref": "Proverbs 11:14", "reflection": "There is safety in many counselors. Talk big decisions over with wise believers." },
+        { "ref": "Proverbs 9:10", "reflection": "True wisdom begins with reverence for the Lord." },
+        { "ref": "James 3:17", "reflection": "God's wisdom is pure, peaceful, gentle, and full of mercy. Use this to test your choices." }
+      ] },
+    { "id": "friendship", "title": "Friendship", "summary": "Good friends sharpen and support each other. Jesus calls His followers friends.",
+      "keywords": ["friend", "friends", "friendship", "best friend", "lost a friend", "bad friends", "peer pressure", "make friends", "fake friends"],
+      "verses": [
+        { "ref": "John 15:13", "reflection": "Jesus showed the greatest love: laying down His life for His friends." },
+        { "ref": "Proverbs 17:17", "reflection": "A true friend loves at all times, especially in hard times." },
+        { "ref": "Proverbs 27:17", "reflection": "Good friends make each other better, like iron sharpening iron." },
+        { "ref": "Proverbs 13:20", "reflection": "The people you walk with shape who you become." },
+        { "ref": "Proverbs 18:24", "reflection": "There is a friend who sticks closer than a brother." }
+      ] },
+    { "id": "humility", "title": "Pride and humility", "summary": "God lifts up the humble. Jesus is our example.",
+      "keywords": ["pride", "proud", "humble", "humility", "arrogant", "ego", "boast", "bragging", "show off", "selfish", "better than others"],
+      "verses": [
+        { "ref": "Matthew 23:12", "reflection": "Jesus taught that those who humble themselves will be lifted up." },
+        { "ref": "Philippians 2:5-8", "reflection": "Jesus, though He was God, humbled Himself and served, even to death on a cross." },
+        { "ref": "James 4:10", "reflection": "Humble yourself before the Lord, and He will lift you up." },
+        { "ref": "Proverbs 16:18", "reflection": "Pride comes before a fall." },
+        { "ref": "Philippians 2:3-4", "reflection": "Humility looks out for the interests of others, not only your own." }
+      ] },
+    { "id": "jealousy", "title": "Jealousy and envy", "summary": "Envy rots the heart. Contentment and love set it free.",
+      "keywords": ["jealous", "jealousy", "envy", "envious", "compare", "comparing", "comparison", "covet", "why do others have", "unfair", "social media"],
+      "verses": [
+        { "ref": "Proverbs 14:30", "reflection": "A peaceful heart brings life, but envy eats away at you." },
+        { "ref": "1 Corinthians 13:4", "reflection": "Love does not envy. Ask God to fill you with His love." },
+        { "ref": "Galatians 5:26", "reflection": "Comparison leads to envy and competition. God's people are called to something better." },
+        { "ref": "James 3:16", "reflection": "Where envy and selfish ambition grow, disorder follows." },
+        { "ref": "Psalm 37:1-2", "reflection": "Do not envy people who do wrong. What they have will not last." }
+      ] },
+    { "id": "purity", "title": "Sexual purity", "summary": "God made our bodies good and calls us to honor Him with them.",
+      "keywords": ["lust", "porn", "pornography", "sex", "sexual", "purity", "pure", "dating", "boyfriend", "girlfriend", "fornication", "adultery", "affair", "cheating", "virginity"],
+      "verses": [
+        { "ref": "Matthew 5:8", "reflection": "Jesus blesses the pure in heart: they will see God." },
+        { "ref": "1 Corinthians 6:18-20", "reflection": "Your body is a temple of the Holy Spirit, bought at a price. Honor God with it." },
+        { "ref": "Psalm 119:9", "reflection": "A young person keeps their way pure by living by God's Word." },
+        { "ref": "Job 31:1", "reflection": "Job made a promise with his eyes. Guarding what you look at guards your heart." },
+        { "ref": "Hebrews 13:4", "reflection": "God honors marriage and asks us to keep the marriage bed pure." }
+      ] },
+    { "id": "addiction", "title": "Addiction and freedom", "summary": "Jesus sets people free. Freedom often comes step by step, with help from others.",
+      "keywords": ["addiction", "addicted", "alcohol", "drinking", "drunk", "drugs", "smoking", "gambling", "habit", "cant stop", "relapse", "sober", "sobriety", "hooked", "vape"],
+      "verses": [
+        { "ref": "John 8:36", "reflection": "Jesus promises that if the Son sets you free, you will be free indeed." },
+        { "ref": "Galatians 5:1", "reflection": "Christ set us free. Stand firm and do not go back under slavery." },
+        { "ref": "1 Corinthians 6:12", "reflection": "Paul refused to be mastered by anything. Only God should be your master." },
+        { "ref": "1 Corinthians 10:13", "reflection": "God always provides a way of escape. Plan ahead for it, and ask others to help you." },
+        { "ref": "Titus 2:11-12", "reflection": "God's grace not only saves; it trains us to say no to what harms us." }
+      ] },
+    { "id": "hope", "title": "Hope", "summary": "Hope in God is sure, because it rests on Jesus who rose from the dead.",
+      "keywords": ["hope", "hopeful", "future hope", "lost hope", "need hope", "discouraged", "give up", "giving up", "will it get better"],
+      "verses": [
+        { "ref": "John 10:10", "reflection": "Jesus came to give life in full." },
+        { "ref": "Jeremiah 29:11", "reflection": "God told His people His thoughts toward them were of peace and a future." },
+        { "ref": "Romans 15:13", "reflection": "The God of hope fills believers with joy and peace." },
+        { "ref": "Hebrews 6:19", "reflection": "Hope in Christ is an anchor for the soul." },
+        { "ref": "1 Peter 1:3", "reflection": "Because Jesus rose, we have a living hope." }
+      ] },
+    { "id": "peace", "title": "Peace", "summary": "Jesus gives a peace the world cannot give.",
+      "keywords": ["peace", "peaceful", "calm", "inner peace", "quiet", "unrest", "turmoil", "chaos", "no peace"],
+      "verses": [
+        { "ref": "John 14:27", "reflection": "Jesus leaves His own peace with His followers." },
+        { "ref": "Romans 5:1", "reflection": "Through faith in Jesus, we have peace with God." },
+        { "ref": "Isaiah 26:3", "reflection": "God keeps in perfect peace the mind that trusts in Him." },
+        { "ref": "Colossians 3:15", "reflection": "Let the peace of Christ rule in your heart." },
+        { "ref": "Numbers 6:24-26", "reflection": "This ancient blessing asks God to keep you, shine on you, and give you peace." }
+      ] },
+    { "id": "joy", "title": "Joy", "summary": "Joy is found in God's presence and grows from knowing Jesus.",
+      "keywords": ["joy", "joyful", "happy", "happiness", "rejoice", "celebrate", "glad", "fun", "no joy"],
+      "verses": [
+        { "ref": "John 15:11", "reflection": "Jesus wants His joy to be in you and your joy to be full." },
+        { "ref": "Psalm 16:11", "reflection": "In God's presence there is fullness of joy." },
+        { "ref": "Philippians 4:4", "reflection": "Rejoice in the Lord always." },
+        { "ref": "Nehemiah 8:10", "reflection": "The joy of the Lord is your strength." },
+        { "ref": "Luke 2:10-11", "reflection": "The birth of Jesus is good news of great joy for all people." }
+      ] },
+    { "id": "gratitude", "title": "Thankfulness", "summary": "Giving thanks turns our hearts back to the Giver of every good gift.",
+      "keywords": ["thankful", "thank", "thanks", "gratitude", "grateful", "blessed", "blessing", "appreciate", "thanksgiving"],
+      "verses": [
+        { "ref": "Luke 17:17-18", "reflection": "Jesus noticed the one healed man who came back to thank God." },
+        { "ref": "1 Thessalonians 5:18", "reflection": "Give thanks in every circumstance." },
+        { "ref": "Psalm 107:1", "reflection": "Give thanks, for God is good and His mercy lasts forever." },
+        { "ref": "James 1:17", "reflection": "Every good gift comes from the Father above." },
+        { "ref": "Psalm 100:4", "reflection": "Come into God's presence with thanksgiving." }
+      ] },
+    { "id": "strength", "title": "Strength in weakness", "summary": "God's strength is made perfect in our weakness.",
+      "keywords": ["strength", "strong", "weak", "weakness", "cant do it", "can't do it", "not enough", "overwhelmed", "power", "exhausted", "give me strength"],
+      "verses": [
+        { "ref": "2 Corinthians 12:9-10", "reflection": "The Lord told Paul His grace is enough, and His power is perfected in weakness." },
+        { "ref": "Isaiah 40:29", "reflection": "God gives power to the faint." },
+        { "ref": "Philippians 4:13", "reflection": "Christ strengthens His people for whatever they face." },
+        { "ref": "Psalm 18:2", "reflection": "The Lord is a rock, a fortress, and a deliverer." },
+        { "ref": "Ephesians 6:10", "reflection": "Be strong in the Lord and in His mighty power." }
+      ] },
+    { "id": "trust", "title": "Trusting God", "summary": "God is faithful. You can trust Him with your life.",
+      "keywords": ["trust", "trust god", "trusting", "rely", "depend", "faith in god", "hard to trust", "let go", "surrender", "control"],
+      "verses": [
+        { "ref": "Proverbs 3:5-6", "reflection": "Trust God with all your heart, and He will make your paths straight." },
+        { "ref": "Psalm 37:5", "reflection": "Commit your way to the Lord and trust Him." },
+        { "ref": "Psalm 56:3-4", "reflection": "When afraid, choose to trust God and His Word." },
+        { "ref": "Psalm 9:10", "reflection": "God has never forsaken those who seek Him." },
+        { "ref": "Psalm 20:7", "reflection": "Some trust in power and things; we trust in the name of the Lord." }
+      ] },
+    { "id": "obedience", "title": "Obeying God", "summary": "Love for Jesus shows itself in doing what He says.",
+      "keywords": ["obey", "obedience", "obedient", "commandments", "rules", "follow god", "do what god says", "disobey", "rebellion", "rebellious"],
+      "verses": [
+        { "ref": "John 14:15", "reflection": "Jesus said that those who love Him will keep His commands." },
+        { "ref": "Luke 11:28", "reflection": "Those who hear God's Word and keep it are blessed." },
+        { "ref": "John 15:10", "reflection": "Obeying Jesus keeps us close to His love." },
+        { "ref": "James 1:22", "reflection": "Do not only listen to the Word. Do what it says." },
+        { "ref": "1 Samuel 15:22", "reflection": "God values a listening, obedient heart more than outward religious acts." }
+      ] },
+    { "id": "suffering", "title": "Suffering and trials", "summary": "God is with His people in suffering and uses even trials for good.",
+      "keywords": ["suffering", "suffer", "trial", "trials", "hard times", "hardship", "struggling", "difficult", "going through", "storm", "crisis", "tragedy", "why me", "pain", "trouble"],
+      "verses": [
+        { "ref": "John 16:33", "reflection": "Jesus said we would have trouble, but He has overcome the world." },
+        { "ref": "Romans 8:18", "reflection": "Present sufferings are small compared to the glory to come." },
+        { "ref": "James 1:2-4", "reflection": "Trials test our faith and grow endurance that makes us mature." },
+        { "ref": "2 Corinthians 4:17-18", "reflection": "Our troubles are light and short compared to eternal glory. Fix your eyes on what is unseen." },
+        { "ref": "Psalm 34:19", "reflection": "God's people face many troubles, but the Lord delivers them." }
+      ] },
+    { "id": "persecution", "title": "Mocked for your faith", "summary": "Jesus said His followers would face opposition, and He blesses them in it.",
+      "keywords": ["persecution", "persecuted", "mocked", "made fun of", "laughed at", "bullied for my faith", "ashamed of my faith", "opposition", "insulted", "rejected for jesus", "hated for"],
+      "verses": [
+        { "ref": "Matthew 5:10-12", "reflection": "Jesus blesses those persecuted for His sake. Great is their reward in heaven." },
+        { "ref": "John 15:18", "reflection": "If the world hates you, remember it hated Jesus first." },
+        { "ref": "1 Peter 3:14", "reflection": "If you suffer for doing right, you are blessed. Do not be afraid." },
+        { "ref": "Romans 8:35-37", "reflection": "Nothing can separate us from Christ's love. In Him we are more than conquerors." },
+        { "ref": "Acts 5:41", "reflection": "The apostles rejoiced to be counted worthy to suffer for Jesus' name." }
+      ] },
+    { "id": "enemies", "title": "Enemies", "summary": "Jesus calls us to love our enemies and leave justice to God.",
+      "keywords": ["enemy", "enemies", "someone hates me", "against me", "revenge", "get back at", "bully", "bullied", "attacked", "opponent", "rival"],
+      "verses": [
+        { "ref": "Matthew 5:43-45", "reflection": "Jesus calls His followers to love their enemies and pray for them, like children of their Father." },
+        { "ref": "Luke 6:35", "reflection": "Love enemies and do good expecting nothing back. That is how God treats people." },
+        { "ref": "Romans 12:20", "reflection": "Answer an enemy's need with kindness." },
+        { "ref": "Proverbs 16:7", "reflection": "When your ways please the Lord, He can bring peace even with enemies." },
+        { "ref": "Psalm 23:5", "reflection": "God cares for His people even in the presence of their enemies." }
+      ] },
+    { "id": "words", "title": "Words and gossip", "summary": "Words have power to give life or to hurt. Use them to build up.",
+      "keywords": ["gossip", "words", "tongue", "swearing", "cursing", "bad language", "said something hurtful", "rumor", "rumours", "slander", "talk behind", "speech", "mouth"],
+      "verses": [
+        { "ref": "Matthew 12:36-37", "reflection": "Jesus says our words matter, even careless ones." },
+        { "ref": "Proverbs 18:21", "reflection": "Death and life are in the power of the tongue." },
+        { "ref": "Ephesians 4:29", "reflection": "Let only words that build others up come out of your mouth." },
+        { "ref": "Proverbs 16:24", "reflection": "Kind words are sweet like honey and healing to the body." },
+        { "ref": "Psalm 141:3", "reflection": "Ask God to guard your mouth." }
+      ] },
+    { "id": "honesty", "priority": 1, "title": "Honesty and lying", "summary": "God delights in truth. Jesus is the truth that sets us free.",
+      "keywords": ["lie", "lying", "liar", "lied", "honest", "honesty", "truth", "cheat", "cheated", "deceive", "deception", "integrity", "steal", "stole"],
+      "verses": [
+        { "ref": "John 8:32", "reflection": "Jesus said that knowing the truth sets you free." },
+        { "ref": "Proverbs 12:22", "reflection": "God delights in people who are truthful." },
+        { "ref": "Ephesians 4:25", "reflection": "Put away lying and speak truth, because we belong to each other." },
+        { "ref": "Colossians 3:9-10", "reflection": "Lying belongs to the old life. In Christ we put on the new self." },
+        { "ref": "Proverbs 10:9", "reflection": "A person of integrity walks safely." }
+      ] },
+    { "id": "giving", "title": "Generosity", "summary": "God loves a cheerful giver, and Jesus said it is more blessed to give.",
+      "keywords": ["give", "giving", "generous", "generosity", "tithe", "tithing", "offering", "donate", "charity", "share", "stingy", "help the poor"],
+      "verses": [
+        { "ref": "Acts 20:35", "reflection": "Jesus said it is more blessed to give than to receive." },
+        { "ref": "2 Corinthians 9:7", "reflection": "Give freely from the heart, not under pressure. God loves a cheerful giver." },
+        { "ref": "Luke 6:38", "reflection": "Jesus teaches that generosity comes back in good measure." },
+        { "ref": "Matthew 6:3-4", "reflection": "Give quietly. Your Father sees what is done in secret." },
+        { "ref": "Proverbs 19:17", "reflection": "Kindness to the poor is like lending to the Lord." }
+      ] },
+    { "id": "holy-spirit", "title": "The Holy Spirit", "summary": "Jesus promised the Holy Spirit to be with His people, to help, teach and change them.",
+      "keywords": ["holy spirit", "holy ghost", "spirit", "comforter", "helper", "fruit of the spirit", "spirit of god", "filled with the spirit"],
+      "verses": [
+        { "ref": "John 14:16-17", "reflection": "Jesus promised another Helper, the Spirit of truth, to be with His people forever." },
+        { "ref": "Acts 1:8", "reflection": "The Holy Spirit gives power to be witnesses for Jesus." },
+        { "ref": "Galatians 5:22-23", "reflection": "The Spirit grows love, joy, peace, and more in believers." },
+        { "ref": "Romans 8:26", "reflection": "The Spirit helps us when we are weak and do not know how to pray." },
+        { "ref": "Ezekiel 36:26-27", "reflection": "God promised a new heart and His Spirit within His people." }
+      ] },
+    { "id": "jesus", "title": "Who is Jesus?", "summary": "Jesus is the Word made flesh, the Son of God, and the Savior of the world.",
+      "keywords": ["jesus", "christ", "who is jesus", "son of god", "messiah", "savior", "saviour", "lord", "is jesus god", "the word", "lamb of god"],
+      "verses": [
+        { "ref": "John 1:1", "reflection": "Before anything was made, the Word already was. The Word was with God and was God." },
+        { "ref": "John 1:14", "reflection": "The Word became flesh and lived among us. This is Jesus." },
+        { "ref": "Matthew 16:15-16", "reflection": "Jesus asks everyone the same question: \"Who do you say that I am?\"" },
+        { "ref": "John 10:11", "reflection": "Jesus is the Good Shepherd who gives His life for the sheep." },
+        { "ref": "Colossians 1:15-16", "reflection": "Jesus is the image of the invisible God. All things were made by Him and for Him." }
+      ] },
+    { "id": "grace", "title": "Grace", "summary": "Grace is God's undeserved kindness, given freely in Jesus.",
+      "keywords": ["grace", "undeserved", "unmerited", "good enough", "earn", "works", "deserve", "not worthy", "unworthy"],
+      "verses": [
+        { "ref": "John 1:16-17", "reflection": "Grace and truth came through Jesus Christ, and from Him we receive grace upon grace." },
+        { "ref": "Ephesians 2:4-5", "reflection": "God, rich in mercy, made us alive with Christ. By grace we are saved." },
+        { "ref": "Titus 3:5", "reflection": "God saved us because of His mercy, not because of our good deeds." },
+        { "ref": "Hebrews 4:16", "reflection": "Come boldly to the throne of grace for help when you need it." },
+        { "ref": "Romans 5:20", "reflection": "Where sin grew, grace grew even more." }
+      ] },
+    { "id": "identity", "title": "Self-worth and identity", "summary": "You are made in God's image and loved by Him. In Christ you are His child.",
+      "keywords": ["worthless", "self worth", "self-worth", "self esteem", "ugly", "not good enough", "hate myself", "insecure", "who am i", "identity", "value", "body image", "useless", "nobody", "failure"],
+      "verses": [
+        { "ref": "Matthew 10:29-31", "reflection": "God knows when a sparrow falls and has numbered the hairs on your head. Jesus says you are worth more than many sparrows." },
+        { "ref": "Genesis 1:27", "reflection": "Every person is made in the image of God." },
+        { "ref": "Psalm 139:14", "reflection": "You are fearfully and wonderfully made." },
+        { "ref": "1 Samuel 16:7", "reflection": "People look at outward appearance, but God looks at the heart." },
+        { "ref": "1 Peter 2:9", "reflection": "In Christ you are chosen, royal, holy, and God's own." }
+      ] },
+    { "id": "future", "title": "The future", "summary": "You do not know tomorrow, but you can know the One who holds it.",
+      "keywords": ["future", "tomorrow", "uncertain", "uncertainty", "plans", "next step", "what will happen", "unknown", "next year", "change", "moving", "new season"],
+      "verses": [
+        { "ref": "Matthew 6:34", "reflection": "Jesus tells us not to worry about tomorrow. Live today with Him." },
+        { "ref": "Jeremiah 29:11", "reflection": "God's thoughts toward His people are of peace and a future." },
+        { "ref": "Proverbs 16:9", "reflection": "We make plans, but the Lord directs our steps." },
+        { "ref": "James 4:13-15", "reflection": "Hold your plans humbly and say, \"If the Lord wills.\"" },
+        { "ref": "Philippians 1:6", "reflection": "God will finish the good work He started in you." }
+      ] },
+    { "id": "courage", "title": "Courage", "summary": "Be strong and courageous, because the Lord goes with you.",
+      "keywords": ["courage", "brave", "bold", "boldness", "nervous", "step out", "risk", "stand up", "confidence", "speak up"],
+      "verses": [
+        { "ref": "Joshua 1:9", "reflection": "Be strong and courageous, for God is with you wherever you go." },
+        { "ref": "Deuteronomy 31:6", "reflection": "The Lord goes with you and will never leave you." },
+        { "ref": "Isaiah 41:13", "reflection": "God holds your right hand and says, \"Fear not; I will help you.\"" },
+        { "ref": "1 Corinthians 16:13", "reflection": "Stay alert, stand firm in the faith, and be strong." },
+        { "ref": "Acts 4:29", "reflection": "The early church prayed for boldness to speak God's Word." }
+      ] },
+    { "id": "justice", "title": "Justice", "summary": "God loves justice and calls His people to do right and care for the weak.",
+      "keywords": ["justice", "injustice", "unfair", "oppression", "oppressed", "racism", "discrimination", "corruption", "wrongdoing", "rights", "fairness"],
+      "verses": [
+        { "ref": "Micah 6:8", "reflection": "God asks us to do justly, love mercy, and walk humbly with Him." },
+        { "ref": "Isaiah 1:17", "reflection": "Learn to do good, seek justice, and defend the weak." },
+        { "ref": "Proverbs 31:8-9", "reflection": "Speak up for those who cannot speak for themselves." },
+        { "ref": "Amos 5:24", "reflection": "God wants justice to flow like a river that never runs dry." },
+        { "ref": "Psalm 37:28", "reflection": "The Lord loves justice and does not abandon His people." }
+      ] },
+    { "id": "serving", "title": "Serving others", "summary": "Jesus came to serve, and He calls His followers to serve one another.",
+      "keywords": ["serve", "serving", "service", "volunteer", "help others", "helping", "ministry", "gifts", "talents", "make a difference", "orphans", "widows"],
+      "verses": [
+        { "ref": "Mark 10:45", "reflection": "Jesus came not to be served, but to serve and give His life." },
+        { "ref": "John 13:14-15", "reflection": "Jesus washed His friends' feet to show us how to serve." },
+        { "ref": "Matthew 25:40", "reflection": "Whatever you do for the least of these, you do for Jesus." },
+        { "ref": "1 Peter 4:10", "reflection": "Use the gifts God has given you to serve others." },
+        { "ref": "Galatians 5:13", "reflection": "Use your freedom to serve one another in love." }
+      ] },
+    { "id": "church", "title": "Church and fellowship", "summary": "Following Jesus is meant to be done together with other believers.",
+      "keywords": ["church", "fellowship", "go to church", "community", "believers", "christians", "small group", "congregation", "pastor", "body of christ", "hurt by church"],
+      "verses": [
+        { "ref": "Matthew 18:20", "reflection": "Where two or three gather in Jesus' name, He is there with them." },
+        { "ref": "Hebrews 10:24-25", "reflection": "Keep meeting together and encourage one another." },
+        { "ref": "Acts 2:46-47", "reflection": "The first believers shared meals, worship, and joy together." },
+        { "ref": "1 Corinthians 12:27", "reflection": "Together, believers are the body of Christ, and each one has a part." },
+        { "ref": "Romans 12:4-5", "reflection": "We are many members of one body, and we belong to each other." }
+      ] },
+    { "id": "bible", "title": "The Bible", "summary": "God's Word is living, true and lasting. It leads us to Jesus.",
+      "keywords": ["bible", "scripture", "word of god", "read the bible", "reading the bible", "is the bible true", "gods word", "study", "verses", "where to start reading"],
+      "verses": [
+        { "ref": "Matthew 24:35", "reflection": "Jesus said heaven and earth will pass away, but His words never will." },
+        { "ref": "2 Timothy 3:16-17", "reflection": "All Scripture is inspired by God and equips us for every good work." },
+        { "ref": "Hebrews 4:12", "reflection": "God's Word is living and active. It speaks to the heart." },
+        { "ref": "Psalm 119:105", "reflection": "God's Word lights the way ahead." },
+        { "ref": "Psalm 1:1-3", "reflection": "The person who delights in God's Word is like a tree planted by water." }
+      ] },
+    { "id": "worship", "title": "Worship and praise", "summary": "God is worthy of worship with our songs, our words and our whole lives.",
+      "keywords": ["worship", "praise", "sing", "singing", "music", "adore", "glorify", "hymn", "song"],
+      "verses": [
+        { "ref": "John 4:23-24", "reflection": "The Father seeks people who worship Him in spirit and in truth." },
+        { "ref": "Psalm 95:6-7", "reflection": "Come, bow down and worship the Lord our Maker." },
+        { "ref": "Romans 12:1", "reflection": "Offering your whole life to God is true worship." },
+        { "ref": "Hebrews 13:15", "reflection": "Through Jesus, offer God a constant sacrifice of praise." },
+        { "ref": "Psalm 150:6", "reflection": "Let everything that has breath praise the Lord." }
+      ] },
+    { "id": "heaven", "title": "Heaven and eternal life", "summary": "Eternal life is knowing God through Jesus, now and forever.",
+      "keywords": ["heaven", "eternity", "eternal", "afterlife", "paradise", "forever", "new heaven", "new earth", "what is heaven like"],
+      "verses": [
+        { "ref": "John 17:3", "reflection": "Jesus defined eternal life as knowing the true God and Jesus Christ whom He sent." },
+        { "ref": "John 14:2-3", "reflection": "Jesus is preparing a place for His people." },
+        { "ref": "Revelation 21:3-4", "reflection": "God will live with His people and wipe away every tear." },
+        { "ref": "1 Corinthians 2:9", "reflection": "No eye has seen what God has prepared for those who love Him." },
+        { "ref": "Philippians 3:20-21", "reflection": "Believers are citizens of heaven, waiting for the Savior." }
+      ] },
+    { "id": "young", "title": "Young people", "summary": "God has a purpose for young people. You can set an example now.",
+      "keywords": ["young", "youth", "teen", "teens", "teenager", "student", "school", "college", "university", "exams", "test", "studying", "peer pressure"],
+      "verses": [
+        { "ref": "1 Timothy 4:12", "reflection": "Do not let anyone look down on you because you are young. Set an example." },
+        { "ref": "Ecclesiastes 12:1", "reflection": "Remember your Creator while you are young." },
+        { "ref": "Psalm 119:9", "reflection": "A young person stays on a pure path by following God's Word." },
+        { "ref": "2 Timothy 2:22", "reflection": "Run from what harms you, and follow what is good with friends who love God." },
+        { "ref": "Proverbs 1:8", "reflection": "Listen to the wise teaching of your parents." }
+      ] },
+    { "id": "old-age", "title": "Growing older", "summary": "God carries His people through every season, even into old age.",
+      "keywords": ["old", "old age", "aging", "ageing", "elderly", "retirement", "retired", "grey hair", "gray hair", "getting older", "grandparent", "grandchildren"],
+      "verses": [
+        { "ref": "Isaiah 46:4", "reflection": "God promises to carry His people even to old age and gray hair." },
+        { "ref": "Psalm 92:14", "reflection": "God's people can still bear fruit in old age." },
+        { "ref": "Psalm 71:18", "reflection": "Older believers can tell the next generation about God's power." },
+        { "ref": "Proverbs 16:31", "reflection": "Gray hair is a crown of glory when it is found in a righteous life." },
+        { "ref": "Psalm 90:12", "reflection": "Ask God to teach you to number your days and live wisely." }
+      ] },
+    { "id": "waiting", "title": "Waiting on God", "summary": "Waiting on God is not wasted time. He is good to those who wait for Him.",
+      "keywords": ["waiting", "wait", "unanswered", "silence", "god is silent", "delay", "when will", "still waiting", "taking so long"],
+      "verses": [
+        { "ref": "Isaiah 40:31", "reflection": "Those who wait on the Lord will renew their strength." },
+        { "ref": "Lamentations 3:25-26", "reflection": "The Lord is good to those who wait for Him." },
+        { "ref": "Psalm 130:5", "reflection": "Wait for the Lord and hope in His Word." },
+        { "ref": "Habakkuk 2:3", "reflection": "God's promises have an appointed time. Though it waits, it will come." },
+        { "ref": "Psalm 37:7", "reflection": "Be still before the Lord and wait patiently for Him." }
+      ] },
+    { "id": "heartbreak", "priority": 1, "title": "Heartbreak and breakups", "summary": "God heals broken hearts and stays when others leave.",
+      "keywords": ["heartbreak", "heartbroken", "broken heart", "breakup", "break up", "broke up", "divorce", "divorced", "separated", "dumped", "ex", "rejected", "unrequited", "cheated on me"],
+      "verses": [
+        { "ref": "Psalm 147:3", "reflection": "God heals the brokenhearted and binds up their wounds." },
+        { "ref": "Psalm 34:18", "reflection": "The Lord is near when your heart is broken." },
+        { "ref": "Isaiah 54:10", "reflection": "Mountains may move, but God's kindness will not leave you." },
+        { "ref": "Psalm 73:26", "reflection": "When your heart fails, God is its strength." },
+        { "ref": "Isaiah 43:18-19", "reflection": "God can do a new thing and make a way where there seems to be none." }
+      ] },
+    { "id": "contentment", "title": "Contentment", "summary": "Contentment is learned by trusting God with what we have.",
+      "keywords": ["content", "contentment", "discontent", "never enough", "want more", "materialism", "greed", "greedy", "satisfied", "possessions", "stuff"],
+      "verses": [
+        { "ref": "Matthew 6:19-21", "reflection": "Jesus says store up treasure in heaven, because your heart follows your treasure." },
+        { "ref": "Philippians 4:11-12", "reflection": "Paul learned to be content in every situation." },
+        { "ref": "1 Timothy 6:6-8", "reflection": "Godliness with contentment is great gain." },
+        { "ref": "Psalm 23:1", "reflection": "With the Lord as your Shepherd, you have what you truly need." },
+        { "ref": "Proverbs 15:16", "reflection": "A little with reverence for God is better than great wealth with trouble." }
+      ] },
+    { "id": "kindness", "title": "Kindness", "summary": "Treat others the way you want to be treated.",
+      "keywords": ["kind", "kindness", "mean", "rude", "nice", "golden rule", "treat others", "gentle", "gentleness", "cruel"],
+      "verses": [
+        { "ref": "Luke 6:31", "reflection": "Jesus' golden rule: treat others the way you want them to treat you." },
+        { "ref": "Ephesians 4:32", "reflection": "Be kind and tenderhearted toward one another." },
+        { "ref": "Galatians 6:10", "reflection": "Do good to everyone whenever you have the chance." },
+        { "ref": "Proverbs 3:3", "reflection": "Wear mercy and truth like a necklace; write them on your heart." },
+        { "ref": "Proverbs 11:17", "reflection": "Kindness blesses the one who shows it." }
+      ] },
+    { "id": "repentance", "title": "Turning back to God", "summary": "God welcomes everyone who turns back to Him.",
+      "keywords": ["repent", "repentance", "turn back", "come back to god", "backslid", "backslidden", "fell away", "far from god", "return to god", "prodigal", "start over", "second chance"],
+      "verses": [
+        { "ref": "Luke 15:7", "reflection": "Heaven rejoices when one person turns back to God." },
+        { "ref": "Acts 3:19", "reflection": "Turn to God, and your sins will be wiped away and refreshing will come." },
+        { "ref": "Isaiah 55:7", "reflection": "Return to the Lord, and He will have mercy and freely pardon." },
+        { "ref": "Joel 2:13", "reflection": "God wants a changed heart, and He is gracious and merciful." },
+        { "ref": "2 Corinthians 7:10", "reflection": "Godly sorrow leads to repentance and new life, without regret." }
+      ] },
+    { "id": "faithfulness", "title": "God's faithfulness", "summary": "God keeps His promises. His faithfulness never fails.",
+      "keywords": ["faithful", "faithfulness", "promises", "promise", "does god keep his word", "reliable", "dependable", "god let me down", "forsaken"],
+      "verses": [
+        { "ref": "Lamentations 3:22-23", "reflection": "God's mercies are new every morning. Great is His faithfulness." },
+        { "ref": "Deuteronomy 7:9", "reflection": "God is the faithful God who keeps His covenant of love." },
+        { "ref": "Hebrews 10:23", "reflection": "Hold on to hope, because the One who promised is faithful." },
+        { "ref": "2 Timothy 2:13", "reflection": "Even when we are faithless, He remains faithful." },
+        { "ref": "Psalm 36:5", "reflection": "God's faithfulness reaches to the skies." }
+      ] },
+    { "id": "sleep", "title": "Sleep", "summary": "You can rest because God watches over you and never sleeps.",
+      "keywords": ["sleep", "cant sleep", "can't sleep", "insomnia", "awake at night", "nightmares", "bedtime", "night", "tired at night", "sleepless"],
+      "verses": [
+        { "ref": "Psalm 4:8", "reflection": "You can lie down in peace and sleep, because the Lord keeps you safe." },
+        { "ref": "Psalm 121:3-4", "reflection": "The One who watches over you never slumbers or sleeps." },
+        { "ref": "Proverbs 3:24", "reflection": "When you lie down, you need not be afraid. Your sleep can be sweet." },
+        { "ref": "Psalm 3:5", "reflection": "David slept and woke again because the Lord held him up." },
+        { "ref": "Psalm 127:2", "reflection": "God gives sleep to those He loves." }
+      ] },
+    { "id": "stress", "priority": 1, "title": "Stress and pressure", "summary": "When life is too much, run to the Rock that is higher than you.",
+      "keywords": ["stress", "stressed", "pressure", "overwhelmed", "too much", "busy", "deadline", "burned out", "burnt out", "cant cope", "can't cope", "breaking point"],
+      "verses": [
+        { "ref": "Matthew 11:28-30", "reflection": "Jesus offers rest and a light burden to the overloaded." },
+        { "ref": "Psalm 61:2", "reflection": "When your heart is overwhelmed, ask God to lead you to the Rock higher than you." },
+        { "ref": "Philippians 4:6-7", "reflection": "Pray about everything, and God's peace will guard you." },
+        { "ref": "Psalm 18:6", "reflection": "In distress David called to the Lord, and God heard." },
+        { "ref": "Psalm 94:19", "reflection": "When thoughts multiply, God's comfort brings delight." }
+      ] },
+    { "id": "rest", "title": "Rest", "summary": "God built rest into life. Jesus gives rest to the soul.",
+      "keywords": ["rest", "tired", "weary", "exhausted", "worn out", "sabbath", "day off", "slow down", "fatigue", "drained"],
+      "verses": [
+        { "ref": "Matthew 11:28", "reflection": "Jesus gives rest to all who come to Him." },
+        { "ref": "Mark 6:31", "reflection": "Jesus told His busy disciples to come away and rest." },
+        { "ref": "Psalm 23:2-3", "reflection": "The Shepherd leads to green pastures and still waters, and restores the soul." },
+        { "ref": "Exodus 20:8-10", "reflection": "From the beginning, God gave His people a day of rest." },
+        { "ref": "Psalm 116:7", "reflection": "Tell your soul to return to its rest, because the Lord has been good." }
+      ] },
+    { "id": "bitterness", "title": "Bitterness", "summary": "Bitterness grows like a root. God's grace can pull it out.",
+      "keywords": ["bitter", "bitterness", "resentful", "grudge", "cant let go", "hate them", "hatred", "offended", "offense"],
+      "verses": [
+        { "ref": "Hebrews 12:15", "reflection": "Watch that a root of bitterness does not grow and cause trouble." },
+        { "ref": "Ephesians 4:31", "reflection": "Put away all bitterness, anger, and malice." },
+        { "ref": "Proverbs 10:12", "reflection": "Hatred stirs up trouble, but love covers many wrongs." },
+        { "ref": "1 Peter 3:9", "reflection": "Do not repay insult with insult. Bless instead." },
+        { "ref": "Romans 12:14", "reflection": "Bless those who hurt you. Do not curse them." }
+      ] },
+    { "id": "love-god", "title": "Loving God", "summary": "God invites us to love Him with all our heart, soul and strength.",
+      "keywords": ["love god", "closer to god", "close to god", "know god", "relationship with god", "seek god", "hungry for god", "far from god", "spiritual dryness", "dry", "lukewarm"],
+      "verses": [
+        { "ref": "Deuteronomy 6:5", "reflection": "Love the Lord your God with all your heart, soul, and strength." },
+        { "ref": "Psalm 63:1", "reflection": "David's soul thirsted for God like a dry land thirsts for water." },
+        { "ref": "Psalm 73:25", "reflection": "In heaven or on earth, there is no one we need more than God." },
+        { "ref": "Psalm 18:1", "reflection": "\"I will love You, O Lord, my strength.\" You can pray this too." },
+        { "ref": "1 John 5:3", "reflection": "Loving God means keeping His commands, and they are not a burden." }
+      ] },
+    { "id": "sin", "title": "Sin", "summary": "All have sinned, but God offers forgiveness and new life through Jesus.",
+      "keywords": ["sin", "sins", "sinner", "sinful", "what is sin", "wrong", "evil heart", "wickedness", "transgression"],
+      "verses": [
+        { "ref": "Romans 3:23", "reflection": "Everyone has sinned and fallen short of God's glory." },
+        { "ref": "Isaiah 59:2", "reflection": "Sin separates people from God." },
+        { "ref": "Romans 6:23", "reflection": "Sin brings death, but God gives eternal life in Jesus as a gift." },
+        { "ref": "1 John 1:8-9", "reflection": "We should not pretend we have no sin. When we confess, God forgives." },
+        { "ref": "Psalm 51:1-2", "reflection": "David asked God for mercy and cleansing. You can pray the same." }
+      ] },
+    { "id": "mercy", "title": "Mercy", "summary": "God is rich in mercy and calls us to be merciful too.",
+      "keywords": ["mercy", "merciful", "compassion", "second chance", "pity", "kindness of god"],
+      "verses": [
+        { "ref": "Luke 6:36", "reflection": "Jesus calls us to be merciful, as our Father is merciful." },
+        { "ref": "Matthew 5:7", "reflection": "The merciful will receive mercy." },
+        { "ref": "Psalm 103:8", "reflection": "The Lord is merciful, gracious, slow to anger, and full of mercy." },
+        { "ref": "Lamentations 3:22", "reflection": "Because of God's mercy, we are not destroyed. His compassions never fail." },
+        { "ref": "Ephesians 2:4-5", "reflection": "God is rich in mercy and made us alive with Christ." }
+      ] },
+    { "id": "evil", "title": "Why is there evil and suffering?", "summary": "Scripture does not answer every question, but it shows God working for good and promises an end to evil.",
+      "keywords": ["why does god allow", "why do bad things happen", "evil", "bad things", "where is god", "why god", "theodicy", "wicked prosper", "unfair world"],
+      "verses": [
+        { "ref": "John 16:33", "reflection": "Jesus was honest: this world has trouble. But He has overcome it." },
+        { "ref": "Genesis 50:20", "reflection": "What people meant for evil, God used for good." },
+        { "ref": "Psalm 73:16-17", "reflection": "The writer could not understand until he came into God's presence." },
+        { "ref": "Romans 12:21", "reflection": "We are called to overcome evil with good." },
+        { "ref": "Revelation 21:4", "reflection": "God promises a day with no more death, crying, or pain." }
+      ] },
+    { "id": "second-coming", "title": "Jesus will return", "summary": "Jesus promised to come again, and His people wait with hope.",
+      "keywords": ["second coming", "return of jesus", "jesus coming back", "end times", "end of the world", "rapture", "last days", "judgment day", "revelation"],
+      "verses": [
+        { "ref": "John 14:3", "reflection": "Jesus promised to come again and take His people to be with Him." },
+        { "ref": "Acts 1:11", "reflection": "The same Jesus who went up into heaven will come back." },
+        { "ref": "Matthew 24:42", "reflection": "No one knows the hour, so stay ready." },
+        { "ref": "Titus 2:13", "reflection": "Believers wait for the blessed hope of Jesus' glorious appearing." },
+        { "ref": "Revelation 22:20", "reflection": "Jesus says, \"Surely I come quickly.\" Christians answer, \"Come, Lord Jesus.\"" }
+      ] },
+    { "id": "cross", "title": "Why did Jesus die?", "summary": "Jesus died for our sins, to bring us back to God.",
+      "keywords": ["cross", "crucifixion", "crucified", "why did jesus die", "died for me", "blood of jesus", "sacrifice", "atonement", "good friday", "it is finished"],
+      "verses": [
+        { "ref": "John 19:30", "reflection": "On the cross Jesus said, \"It is finished.\" The work of saving us was complete." },
+        { "ref": "Isaiah 53:5", "reflection": "He was wounded for our sins, and by His wounds we are healed." },
+        { "ref": "1 Peter 2:24", "reflection": "Jesus carried our sins in His body on the cross." },
+        { "ref": "Romans 5:8", "reflection": "Christ died for us while we were still sinners. That is God's love." },
+        { "ref": "1 Corinthians 1:18", "reflection": "The message of the cross is the power of God to those being saved." }
+      ] },
+    { "id": "resurrection", "title": "The resurrection", "summary": "Jesus rose from the dead, and that changes everything.",
+      "keywords": ["resurrection", "risen", "rose again", "easter", "empty tomb", "did jesus rise", "raised from the dead"],
+      "verses": [
+        { "ref": "Matthew 28:5-6", "reflection": "The angel said, \"He is not here: for he is risen.\"" },
+        { "ref": "Luke 24:6-7", "reflection": "Jesus had told His followers He would rise on the third day, and He did." },
+        { "ref": "1 Corinthians 15:20", "reflection": "Christ is risen, the first of many who will rise." },
+        { "ref": "Romans 6:4", "reflection": "Because Christ was raised, we can walk in a new life." },
+        { "ref": "1 Peter 1:3", "reflection": "The resurrection gives us a living hope." }
+      ] },
+    { "id": "leaders", "title": "Leaders and nations", "summary": "God rules over nations. We are called to pray for leaders and live rightly.",
+      "keywords": ["government", "president", "leaders", "politics", "election", "nation", "country", "king", "authority", "authorities", "war"],
+      "verses": [
+        { "ref": "1 Timothy 2:1-2", "reflection": "Pray for all people, including those in authority, so we may live in peace." },
+        { "ref": "Proverbs 21:1", "reflection": "Even a king's heart is in the Lord's hand." },
+        { "ref": "Romans 13:1", "reflection": "God is above every earthly authority." },
+        { "ref": "Proverbs 14:34", "reflection": "Righteousness lifts a nation up." },
+        { "ref": "Psalm 33:12", "reflection": "Blessed is the nation whose God is the Lord." }
+      ] }
+  ]
+}
