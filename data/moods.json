@@ -126,6 +126,27 @@
       ]
     },
     {
+      "id": "frustrated",
+      "label": "Frustrated",
+      "intro": "When things keep going wrong or nothing moves, slow down and bring it all to Jesus.",
+      "verses": [
+        { "ref": "Luke 10:41-42", "jesus": true, "reflection": "Martha was busy, stressed and upset that no one was helping. Jesus spoke to her gently and reminded her that only one thing is truly needed: being with Him.", "prayer": "Jesus, I am troubled about many things. Help me sit with You first." },
+        { "ref": "Psalm 37:7-8", "reflection": "When others seem to get ahead unfairly, it is easy to fret. God invites you to rest in Him, wait patiently, and let go of anger.", "prayer": "Lord, I will rest in You and stop fretting." },
+        { "ref": "Ecclesiastes 7:9", "reflection": "Frustration can quickly turn into anger. Slowing down before you react is wise.", "prayer": "Lord, keep me from getting angry too fast." },
+        { "ref": "Proverbs 14:29", "reflection": "Being slow to get angry shows real understanding. Rushing in frustration usually makes things worse.", "prayer": "Lord, give me a calm and understanding spirit." },
+        { "ref": "James 1:2-4", "reflection": "Hard and annoying times can grow patience in us. God is using even this to make you stronger and more complete.", "prayer": "Lord, use this frustration to grow patience in me." },
+        { "ref": "Romans 5:3-4", "reflection": "Trouble can lead to patience, patience to tested character, and character to hope. This hard season is not wasted.", "prayer": "God, turn my troubles into patience and hope." },
+        { "ref": "Colossians 3:12", "reflection": "As God's loved and chosen people, we can put on kindness, humility, gentleness and patience, like clothes for the day.", "prayer": "Lord, help me put on patience and kindness today." },
+        { "ref": "Romans 12:12", "reflection": "Three simple steps for hard days: hold on to hope, be patient in trouble, and keep praying.", "prayer": "Lord, help me hope, be patient, and keep praying." },
+        { "ref": "Psalm 62:8", "reflection": "You can pour out your whole heart to God, frustrations and all. He is a safe place.", "prayer": "God, here is everything on my heart. Be my refuge." },
+        { "ref": "Ecclesiastes 3:1", "reflection": "Not everything happens on our timetable. God has a right time for each thing.", "prayer": "Lord, help me trust Your timing." },
+        { "ref": "Psalm 13:1-2", "reflection": "David asked God, \"How long?\" four times. You can be honest with God when you feel stuck.", "prayer": "Lord, how long? I bring You my honest feelings." },
+        { "ref": "Psalm 13:5-6", "reflection": "The same psalm ends with trust and singing. Honest complaints can turn into praise as we remember God's mercy.", "prayer": "Lord, I trust Your mercy, and I will sing to You." },
+        { "ref": "Habakkuk 1:2", "reflection": "The prophet felt God was not listening and said so. God answered him, and He hears you too.", "prayer": "Lord, I cry out to You. Please hear me." },
+        { "ref": "Lamentations 3:25-26", "reflection": "The Lord is good to those who wait for Him. Quiet hope is good for the soul.", "prayer": "Lord, teach me to wait quietly and hope in You." }
+      ]
+    },
+    {
       "id": "tired",
       "label": "Tired",
       "intro": "When you are worn out in body or soul, Jesus offers rest.",
@@ -287,6 +308,28 @@
         { "ref": "1 Corinthians 13:4-5", "reflection": "Love is patient and kind and does not keep a list of wrongs. God's love in us can slowly heal old wounds.", "prayer": "Lord, fill me with Your patient and kind love." },
         { "ref": "Proverbs 19:11", "reflection": "It can be a beautiful thing to overlook an offense. Ask God if this is one you can let go.", "prayer": "Lord, give me wisdom to know what to let go." },
         { "ref": "Psalm 9:9", "reflection": "The Lord is a safe place for those who are treated badly. Run to Him.", "prayer": "Lord, You are my refuge. I run to You." }
+      ]
+    },
+    {
+      "id": "in-pain",
+      "label": "In pain",
+      "intro": "When life hurts because of what has happened to you, God has not left you. Jesus knows suffering from the inside.",
+      "crisis": true,
+      "verses": [
+        { "ref": "John 16:33", "jesus": true, "reflection": "Jesus did not promise a life without trouble. He promised His peace in the middle of it, because He has overcome the world.", "prayer": "Jesus, give me Your peace in this trouble." },
+        { "ref": "Isaiah 53:4", "reflection": "This prophecy about Jesus says He carried our griefs and sorrows. Your pain is not foreign to Him.", "prayer": "Jesus, You carried sorrow. Carry mine with me." },
+        { "ref": "Psalm 34:19", "reflection": "Even people who love God go through many troubles. The Lord does not leave them there; He delivers them.", "prayer": "Lord, deliver me out of this trouble." },
+        { "ref": "2 Corinthians 4:8-9", "reflection": "Pressed, confused, struck down, but not crushed, not in despair, not abandoned, not destroyed. With God, hard is not the end.", "prayer": "Lord, I am hurting, but I am not forsaken. Hold me up." },
+        { "ref": "2 Corinthians 4:17-18", "reflection": "Paul faced terrible hardships and still called them light and short compared to the glory ahead. Look past what you see to what God is doing.", "prayer": "Lord, help me see beyond this pain to Your glory." },
+        { "ref": "Romans 8:18", "reflection": "The pain of now is real, but it cannot compare with the glory God will show His children.", "prayer": "Lord, give me hope beyond what I am suffering now." },
+        { "ref": "Romans 8:28", "reflection": "This does not say every hard thing is good. It says God works in all things for good for those who love Him.", "prayer": "Lord, I trust You to work good even out of this." },
+        { "ref": "Psalm 46:1-2", "reflection": "Even if your whole world feels like it is falling apart, God is your refuge, strength and present help.", "prayer": "God, be my refuge while my world is shaking." },
+        { "ref": "Isaiah 43:2", "reflection": "God does not say you will avoid deep waters or fire. He says He will be with you as you go through them.", "prayer": "Lord, walk with me through the waters and the fire." },
+        { "ref": "1 Peter 5:10", "reflection": "Suffering lasts a while, but God Himself will restore, strengthen and settle you.", "prayer": "God of all grace, restore and strengthen me." },
+        { "ref": "Job 23:10", "reflection": "Job lost almost everything and still believed God knew his path. Trials can bring us out like refined gold.", "prayer": "Lord, You know the way I am taking. Bring me through." },
+        { "ref": "Psalm 31:7", "reflection": "God sees your trouble and knows your soul in hard times. You are not unnoticed.", "prayer": "Lord, thank You that You see my trouble and know my soul." },
+        { "ref": "Nahum 1:7", "reflection": "The Lord is good and a strong place to hide in the day of trouble. He knows those who trust Him.", "prayer": "Lord, You are my stronghold today." },
+        { "ref": "Psalm 18:6", "reflection": "In deep distress David cried to God, and God heard him. Your cry reaches His ears too.", "prayer": "Lord, I cry out to You in my distress. Hear me." }
       ]
     },
     {

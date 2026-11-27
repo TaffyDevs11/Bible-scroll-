@@ -46,7 +46,7 @@ export async function validate({ print = false } = {}) {
   // ---------- moods ----------
   if (exists('data/moods.json')) {
     const { moods } = readJson('data/moods.json');
-    const REQUIRED = ['anxious', 'afraid', 'sad', 'lonely', 'grieving', 'angry', 'tired', 'tempted', 'guilty', 'confused', 'doubting', 'sick', 'money', 'hurt', 'grateful', 'joyful', 'hopeful', 'guidance', 'new-to-faith'];
+    const REQUIRED = ['anxious', 'afraid', 'sad', 'lonely', 'grieving', 'angry', 'frustrated', 'tired', 'tempted', 'guilty', 'confused', 'doubting', 'sick', 'money', 'hurt', 'in-pain', 'grateful', 'joyful', 'hopeful', 'guidance', 'new-to-faith'];
     const ids = new Set(moods.map((m) => m.id));
     for (const id of REQUIRED) need(ids.has(id), `moods.json: missing mood "${id}"`);
     for (const m of moods) {
